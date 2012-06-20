@@ -1,0 +1,28 @@
+<?xml version"1.0" encoding="UTF-8"?>
+
+<Departments>
+		<Department id="1">
+			<name>Aviation and Technology</name>
+		</Department>
+		<Department id="2">
+			<name>Chemical and Materials Engineering</name>
+		</Department>
+		<Department id="3">
+			<name>Civil and Environmental Engineering</name>
+		</Department>
+		<Department id="4">
+			<name>Computer Engineering</name>
+		</Department>
+		<Department id="5">
+			<name>Electrical Engineering</name>
+		</Department>
+		<Department id="6">
+			<name>General Engineering</name>
+		</Department>
+		<Department id="7">
+			<name>Industrial and Systems Engineering</name>
+		</Department>
+		<Department id="8">
+			<name>Mechanical and Aerospace Engineering</name>
+		</Department>
+</Departments>

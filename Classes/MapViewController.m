@@ -1,0 +1,330 @@
+//
+//  MapViewController.m
+//  iSJSUv2
+//
+//  Created by Alben Cheung on 2/21/10.
+//  Copyright 2010 San Jose State University. All rights reserved.
+//
+
+#import "MapViewController.h"
+#import "Annotation.h"
+#import "DDAnnotationView.h"
+#import <QuartzCore/QuartzCore.h>
+#import "BuildingViewController.h"
+#import "CampusMapViewController.h"
+
+#define CONST_fps 25.
+#define CONST_map_shift 0.15
+
+@implementation MapViewController
+
+@synthesize searchBar = _searchBar;
+@synthesize tableView = _tableView;
+
+
+- (void)dealloc 
+{
+	[searchDB release];
+	[_tableView release];
+	[abbreviationToTitle release];
+	[abbrToDataObject release];
+	[titleToAbbreviation release];
+	[buildingMapData release];
+	[sjsuMap release];
+	[_searchBar release];
+    [super dealloc];
+}
+
+- (IBAction)loadCampusMap:(id)sender{
+	CampusMapViewController *campusMap = [[CampusMapViewController alloc] init];
+	
+	self.navigationController.modalTransitionStyle = UIModalTransitionStyleFlipHorizontal;
+	[self.navigationController presentModalViewController:campusMap animated:YES];
+	[campusMap release];
+}
+
+- (void)loadView
+{
+	//Initiates View
+	UIView *view = [[UIView alloc] initWithFrame:CGRectMake(0,0,320,480)];
+	
+	//Setup MapView
+	/*sjsuMap = [[MKMapView alloc] initWithFrame:CGRectMake(0,45,320,480)];
+	sjsuMap.delegate = self;
+	
+	[view addSubview:sjsuMap];
+	
+	//Add Search
+	self.searchBar = [[UISearchBar alloc]initWithFrame:CGRectMake(0, 0, 320, 45)];
+	self.searchBar.showsCancelButton = YES;
+	self.searchBar.delegate = self; 
+	
+	[view addSubview:self.searchBar];*/
+	
+	//Setup TableView
+	self.tableView = [[UITableView alloc] initWithFrame:CGRectMake(0,45, 320, 415)];
+	self.tableView.dataSource = self;
+	self.tableView.delegate = self;
+	self.tableView.hidden = NO;
+	self.tableView.userInteractionEnabled = YES;
+	
+	[view addSubview:self.tableView];
+	
+	self.view = view;
+	[view release];
+}
+
+
+
+- (void)viewDidLoad 
+{
+	[super viewDidLoad];
+	
+	// Set View's title
+	self.title = @"Campus Map";
+
+	// Set View Scope
+	float zoomLevel = 0.0015;
+	MKCoordinateRegion newRegion;
+    newRegion.center.latitude = 37.335284;
+    newRegion.center.longitude = -121.881;
+    newRegion.span.latitudeDelta = zoomLevel;
+    newRegion.span.longitudeDelta = zoomLevel;
+	[sjsuMap setShowsUserLocation:YES];
+	[sjsuMap setRegion:newRegion animated:YES];
+	
+	// Read mapdata from file
+	NSString* path = [[NSBundle mainBundle] pathForResource:@"mapdata" ofType:@"plist"];
+	buildingMapData = [[NSArray alloc] initWithContentsOfFile:path];
+    NSLog(@"%@",buildingMapData);
+	titleToAbbreviation = [[NSMutableDictionary alloc] init];
+	abbrToDataObject = [[NSMutableDictionary alloc] init];
+	abbreviationToTitle = [[NSMutableDictionary alloc] init];
+	
+	//Show User Location
+	//sjsuMap.showsUserLocation = YES;
+	
+	//Update GPS Location
+	/*[NSTimer scheduledTimerWithTimeInterval:1 
+									 target:self 
+								   selector:@selector(locUpdate) 
+								   userInfo:nil 
+									repeats:YES];*/
+	
+	
+	
+	int count = 0;
+	for (NSDictionary *building in buildingMapData) {
+		double latitude = [[building objectForKey:@"latitude"] doubleValue];
+		double longitude = [[building objectForKey:@"longitude"] doubleValue];
+		
+		CLLocationCoordinate2D location;
+		location.latitude = latitude;
+		location.longitude = longitude;
+		
+		Annotation *annotation = [[Annotation alloc] initWithCoordinate:location addressDictionary:nil];
+		NSString *oneTitle = [NSString stringWithString:[building objectForKey:@"title"]];
+		annotation.title = [[NSString alloc] initWithString:oneTitle];
+		
+		NSString *subtitle = [building objectForKey:@"subtitle"];
+		if (subtitle != nil) {
+			annotation.subtitle = [NSString stringWithString:subtitle];
+		}
+		
+		[sjsuMap addAnnotation:annotation];
+		[annotation release];
+		count++;
+		
+		NSString *aTitle = [NSString stringWithString:[building objectForKey:@"title"]];
+		NSString *abbr = [NSString stringWithString:[building objectForKey:@"abbreviation"]];
+		[titleToAbbreviation setObject:abbr forKey:aTitle];
+		[abbreviationToTitle setObject:aTitle forKey:abbr];
+		[abbrToDataObject setObject:@"" forKey:abbr];
+	}
+	
+	// Read buildingsdata from file
+	path = [[NSBundle mainBundle] pathForResource:@"buildings" ofType:@"plist"];
+	NSArray *buildings = [[NSArray alloc] initWithContentsOfFile:path];
+	for (NSArray *building in buildings) 
+	{
+		NSString *abbreviation = [building objectAtIndex:0];
+		if ([abbrToDataObject objectForKey:abbreviation] == nil) continue;
+		if ([building count] <= 1) continue;
+		
+		NSMutableArray *newBuilding = [[NSMutableArray alloc] initWithArray:building];
+		[newBuilding removeObjectAtIndex:0];
+		[abbrToDataObject setObject:newBuilding forKey:abbreviation];
+		[newBuilding release];
+		 		
+	}
+	[buildings release];
+	
+	//Search
+	searchDB = [[NSMutableArray alloc] initWithArray:[titleToAbbreviation allKeys]];
+    NSLog(@"%@", searchDB);
+	dbTemp = [searchDB mutableCopy];
+}
+- (void)viewWillAppear:(BOOL)animated {
+	if (isSearching) {
+		[self.navigationController setNavigationBarHidden:YES animated:YES];
+		return;
+	}
+	[self.navigationController setToolbarHidden:NO animated:YES];
+}
+
+#pragma mark -
+#pragma mark MKMapView Delegate
+
+- (MKAnnotationView *)mapView:(MKMapView *)map viewForAnnotation:(id <MKAnnotation>)annotation
+{
+	static NSString *AnnotationViewID = @"annotationViewID";
+	
+    DDAnnotationView *annotationView =
+			(DDAnnotationView *)[sjsuMap dequeueReusableAnnotationViewWithIdentifier:AnnotationViewID];
+	
+	if ([annotation.title isEqualToString:@"Current Location"]) {
+		//NSLog(@"%@",annotation.title);
+		return annotationView;
+		
+	}
+	NSString *abbreviation = [NSString stringWithString:[titleToAbbreviation objectForKey:annotation.title]];
+	
+	
+	UIButton *rightButton;
+    if (annotationView == nil)
+    {
+		annotationView = [[[DDAnnotationView alloc] initWithAnnotation:annotation
+													   reuseIdentifier:AnnotationViewID
+														  abbreviation:abbreviation] autorelease];
+		
+		rightButton = [UIButton buttonWithType:UIButtonTypeDetailDisclosure];
+	}
+	id object = [abbrToDataObject objectForKey:abbreviation];
+	if (![object isKindOfClass:[NSString class]]) {
+		annotationView.rightCalloutAccessoryView = rightButton;	
+	}
+
+	return annotationView;
+}
+
+- (void)mapView:(MKMapView *)mapView annotationView:(MKAnnotationView *)view calloutAccessoryControlTapped:(UIControl *)control {
+	DDAnnotationView *annotView = (DDAnnotationView*)view;	
+	
+	BuildingViewController *building = [[BuildingViewController alloc] init];
+	building.departments = [abbrToDataObject objectForKey:annotView.abbreviation];
+	NSString *displayTitle = [abbreviationToTitle objectForKey:annotView.abbreviation];
+	building.title = displayTitle;
+	building.titleString = [NSString stringWithFormat:@"%@ - %@",displayTitle,annotView.abbreviation];
+	
+	[self.navigationController pushViewController:building animated:YES];
+	[self.navigationController setToolbarHidden:YES animated:NO];
+	[building release];
+}
+
+#pragma mark -
+#pragma mark UISearchBar Delegate
+
+- (void)searchBarTextDidBeginEditing:(UISearchBar *)searchBar
+{
+	// Unhide table
+	self.tableView.hidden = NO;
+	// Hide Navigation Bar
+	[self.navigationController setNavigationBarHidden:YES animated:YES];
+	// Hide Tool Bar
+	[self.navigationController setToolbarHidden:YES animated:YES];
+	// Flag
+	isSearching = YES;
+}
+
+- (void)searchBarSearchButtonClicked:(UISearchBar *)searchBar
+{
+	//Hides keyboard
+	[searchBar resignFirstResponder];
+}
+
+- (void)searchBarCancelButtonClicked:(UISearchBar *)searchBar {
+	// Search canceled, hide table
+	self.tableView.hidden = YES;
+	// Show Navigation Bar
+	[self.navigationController setNavigationBarHidden:NO animated:YES];
+	// Show Tool Bar
+	[self.navigationController setToolbarHidden:NO animated:YES]; 
+	// Hide keyboard
+	[searchBar resignFirstResponder];
+	searchBar.text = nil;
+	// Flag
+	isSearching = NO;
+}
+
+- (void)searchBar:(UISearchBar *)searchBar textDidChange:(NSString *)searchText
+{
+	NSString *searchFor = searchBar.text;
+	
+	[searchDB removeAllObjects];
+	[searchDB addObjectsFromArray:[dbTemp mutableCopy]];
+	
+	if([searchFor length]>0){
+		NSPredicate *pred = [NSPredicate predicateWithFormat:@"SELF contains[c] %@", searchFor];
+		[searchDB filterUsingPredicate:pred];
+	}
+	[self.tableView reloadData];
+}
+
+
+#pragma mark -
+#pragma mark UITableView Delegate
+
+
+- (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
+	return [searchDB count];
+}
+- (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
+	
+	static NSString *CellIdentifier = @"Cell";
+	
+	UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:CellIdentifier];
+	if (cell == nil) {
+		cell = [[[UITableViewCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:CellIdentifier] autorelease];
+	}
+	cell.textLabel.text = [searchDB objectAtIndex:indexPath.row];
+	return cell;
+}
+
+- (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
+	
+	NSString *titleString = [searchDB objectAtIndex:indexPath.row];
+	NSString *abbreviation = [titleToAbbreviation objectForKey:titleString];
+	
+	id object = [abbrToDataObject objectForKey:abbreviation];
+	if ([object isKindOfClass:[NSString class]]) {
+		UIAlertView *alert = [[UIAlertView alloc] initWithTitle:nil
+														message:@"Sorry! We currently don't have data for this building." 
+													   delegate:self 
+											  cancelButtonTitle:@"OK" 
+											  otherButtonTitles:nil];
+		[alert show];
+		[alert release];
+		return;
+	}
+	
+	BuildingViewController *building = [[BuildingViewController alloc] init];
+	building.departments = [[NSMutableArray alloc] initWithArray:object];
+	[self.navigationController pushViewController:building animated:YES];
+	[self.navigationController setNavigationBarHidden:NO];
+	[building release];
+	self.searchBar.text = nil;
+	isSearching = YES;
+	[tableView deselectRowAtIndexPath:indexPath animated:YES];
+}
+
+#pragma mark -
+#pragma mark UIScrollView Delegate
+
+- (void)scrollViewWillBeginDragging:(UIScrollView *)scrollView {
+	[self.searchBar resignFirstResponder];
+}
+- (void)scrollViewDidScrollToTop:(UIScrollView *)scrollView {	
+	[self.searchBar becomeFirstResponder];
+}
+
+@end

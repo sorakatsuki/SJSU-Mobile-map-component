@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>abbreviation</key>
+		<string>ENG</string>
+		<key>latitude</key>
+		<real>37.337101</real>
+		<key>longitude</key>
+		<real>-121.881611</real>
+		<key>title</key>
+		<string>Engineering Building</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>KING</string>
+		<key>latitude</key>
+		<real>37.335514</real>
+		<key>longitude</key>
+		<real>-121.885114</real>
+		<key>title</key>
+		<string>King Library</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>7TH</string>
+		<key>latitude</key>
+		<real>37.333126</real>
+		<key>longitude</key>
+		<real>-121.880779</real>
+		<key>title</key>
+		<string>7th Street Garage</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>4TH</string>
+		<key>latitude</key>
+		<real>37.332401</real>
+		<key>longitude</key>
+		<real>-121.883</real>
+		<key>title</key>
+		<string>4th Street Garage</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>DH</string>
+		<key>latitude</key>
+		<real>37.332477</real>
+		<key>longitude</key>
+		<real>-121.882228</real>
+		<key>title</key>
+		<string>Duncan Hall</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>10TH</string>
+		<key>latitude</key>
+		<real>37.339012</real>
+		<key>longitude</key>
+		<real>-121.8805</real>
+		<key>title</key>
+		<string>10th Street Garage</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>MH</string>
+		<key>latitude</key>
+		<real>37.333561</real>
+		<key>longitude</key>
+		<real>-121.881852</real>
+		<key>title</key>
+		<string>MacQuarrie Hall</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>SH</string>
+		<key>latitude</key>
+		<real>37.333911</real>
+		<key>longitude</key>
+		<real>-121.880962</real>
+		<key>title</key>
+		<string>Sweeney Hall</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>EC</string>
+		<key>latitude</key>
+		<real>37.3349</real>
+		<key>longitude</key>
+		<real>-121.880693</real>
+		<key>title</key>
+		<string>Event Center</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>WSH</string>
+		<key>latitude</key>
+		<real>37.333612</real>
+		<key>longitude</key>
+		<real>-121.879342</real>
+		<key>title</key>
+		<string>Washburn Hall</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>WSQ</string>
+		<key>latitude</key>
+		<real>37.334218</real>
+		<key>longitude</key>
+		<real>-121.88403</real>
+		<key>title</key>
+		<string>Washington Square Hall</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>YUH</string>
+		<key>latitude</key>
+		<real>37.333604</real>
+		<key>longitude</key>
+		<real>-121.883837</real>
+		<key>title</key>
+		<string>Yoshihiro Uchida Hall</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>UT</string>
+		<key>latitude</key>
+		<real>37.335762</real>
+		<key>longitude</key>
+		<real>-121.884803</real>
+		<key>title</key>
+		<string>University Theatre</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>UPD</string>
+		<key>latitude</key>
+		<real>37.333535</real>
+		<key>longitude</key>
+		<real>-121.880168</real>
+		<key>title</key>
+		<string>University Police</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>TH</string>
+		<key>latitude</key>
+		<real>37.335301</real>
+		<key>longitude</key>
+		<real>-121.883397</real>
+		<key>title</key>
+		<string>Tower Hall</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>SU</string>
+		<key>latitude</key>
+		<real>37.336657</real>
+		<key>longitude</key>
+		<real>-121.88035</real>
+		<key>title</key>
+		<string>Student Union</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>SSC</string>
+		<key>latitude</key>
+		<real>37.339157</real>
+		<key>longitude</key>
+		<real>-121.881015</real>
+		<key>title</key>
+		<string>Student Services Center</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>SPM</string>
+		<key>latitude</key>
+		<real>37.334192</real>
+		<key>longitude</key>
+		<real>-121.883311</real>
+		<key>title</key>
+		<string>Spartan Memorial</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>SPXE</string>
+		<key>latitude</key>
+		<real>37.334499</real>
+		<key>longitude</key>
+		<real>-121.881766</real>
+		<key>title</key>
+		<string>Spartan Complex East</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>SPXC</string>
+		<key>latitude</key>
+		<real>37.334184</real>
+		<key>longitude</key>
+		<real>-121.882539</real>
+		<key>title</key>
+		<string>Spartan Complex Central</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>SCI</string>
+		<key>latitude</key>
+		<real>37.33455</real>
+		<key>longitude</key>
+		<real>-121.884588</real>
+		<key>title</key>
+		<string>Science Building</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>RYC</string>
+		<key>latitude</key>
+		<real>37.333979</real>
+		<key>longitude</key>
+		<real>-121.879599</real>
+		<key>title</key>
+		<string>Royce Hall</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>Q</string>
+		<key>latitude</key>
+		<real>37.33728</real>
+		<key>longitude</key>
+		<real>-121.879309</real>
+		<key>title</key>
+		<string>Building Q</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>MUS</string>
+		<key>latitude</key>
+		<real>37.335779</real>
+		<key>longitude</key>
+		<real>-121.880608</real>
+		<key>title</key>
+		<string>Music Building</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>MD</string>
+		<key>latitude</key>
+		<real>37.335293</real>
+		<key>longitude</key>
+		<real>-121.88314</real>
+		<key>title</key>
+		<string>Morris Dailey Auditorium</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>JWH</string>
+		<key>latitude</key>
+		<real>37.334329</real>
+		<key>longitude</key>
+		<real>-121.878043</real>
+		<key>title</key>
+		<string>Joe West Hall</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>MOD</string>
+		<key>latitude</key>
+		<real>37.337451</real>
+		<key>longitude</key>
+		<real>-121.879427</real>
+		<key>title</key>
+		<string>Modular Units</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>IRC</string>
+		<key>latitude</key>
+		<real>37.336205</real>
+		<key>longitude</key>
+		<real>-121.883483</real>
+		<key>title</key>
+		<string>Instructional Resource Center</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>IS</string>
+		<key>latitude</key>
+		<real>37.33757</real>
+		<key>longitude</key>
+		<real>-121.880822</real>
+		<key>title</key>
+		<string>Industrial Studies</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>HGH</string>
+		<key>latitude</key>
+		<real>37.336035</real>
+		<key>longitude</key>
+		<real>-121.884481</real>
+		<key>title</key>
+		<string>Hugh Gillis Hall</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>HOV</string>
+		<key>latitude</key>
+		<real>37.334337</real>
+		<key>longitude</key>
+		<real>-121.879857</real>
+		<key>title</key>
+		<string>Hoover Hall</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>HCP</string>
+		<key>latitude</key>
+		<real>37.336112</real>
+		<key>longitude</key>
+		<real>-121.878333</real>
+		<key>title</key>
+		<string>Heating &amp; Cooling Plant</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>HB</string>
+		<key>latitude</key>
+		<real>37.335711</real>
+		<key>longitude</key>
+		<real>-121.879116</real>
+		<key>title</key>
+		<string>Health Building</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>FOB</string>
+		<key>latitude</key>
+		<real>37.334627</real>
+		<key>longitude</key>
+		<real>-121.882603</real>
+		<key>title</key>
+		<string>Faculty Offices</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>DBH</string>
+		<key>latitude</key>
+		<real>37.335011</real>
+		<key>longitude</key>
+		<real>-121.882496</real>
+		<key>title</key>
+		<string>Dwight Bentel Hall</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>DMH</string>
+		<key>latitude</key>
+		<real>37.336308</real>
+		<key>longitude</key>
+		<real>-121.883934</real>
+		<key>title</key>
+		<string>Dudley Moorhead Hall</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>DC</string>
+		<key>latitude</key>
+		<real>37.334081</real>
+		<key>longitude</key>
+		<real>-121.878473</real>
+		<key>title</key>
+		<string>Dining Commons</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>CY</string>
+		<key>latitude</key>
+		<real>37.338031</real>
+		<key>longitude</key>
+		<real>-121.879996</real>
+		<key>title</key>
+		<string>Corporation Yard</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>CH</string>
+		<key>latitude</key>
+		<real>37.335497</real>
+		<key>longitude</key>
+		<real>-121.881058</real>
+		<key>title</key>
+		<string>Concert Hall</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>CC</string>
+		<key>latitude</key>
+		<real>37.335898</real>
+		<key>longitude</key>
+		<real>-121.883311</real>
+		<key>title</key>
+		<string>Computer Center</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>CL</string>
+		<key>latitude</key>
+		<real>37.336188</real>
+		<key>longitude</key>
+		<real>-121.882539</real>
+		<key>title</key>
+		<string>Clark Hall</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>CCB</string>
+		<key>latitude</key>
+		<real>37.335557</real>
+		<key>longitude</key>
+		<real>-121.881841</real>
+		<key>title</key>
+		<string>Central Classroom Building</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>F</string>
+		<key>latitude</key>
+		<real>37.337084</real>
+		<key>longitude</key>
+		<real>-121.879492</real>
+		<key>title</key>
+		<string>Career Center</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>CVC</string>
+		<key>latitude</key>
+		<real>37.335429</real>
+		<key>longitude</key>
+		<real>-121.878215</real>
+		<key>title</key>
+		<string>Campus Village C</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>CVB</string>
+		<key>latitude</key>
+		<real>37.335071</real>
+		<key>longitude</key>
+		<real>-121.877496</real>
+		<key>title</key>
+		<string>Campus Village B</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>CVA</string>
+		<key>latitude</key>
+		<real>37.334448</real>
+		<key>longitude</key>
+		<real>-121.877486</real>
+		<key>title</key>
+		<string>Campus Village A</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>CAF</string>
+		<key>latitude</key>
+		<real>37.336248</real>
+		<key>longitude</key>
+		<real>-121.881133</real>
+		<key>title</key>
+		<string>Cafeteria</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>BT</string>
+		<key>latitude</key>
+		<real>37.337084</real>
+		<key>longitude</key>
+		<real>-121.878859</real>
+		<key>title</key>
+		<string>Business Tower</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>BB</string>
+		<key>latitude</key>
+		<real>37.335037</real>
+		<key>longitude</key>
+		<real>-121.87858</real>
+		<key>title</key>
+		<string>Building BB</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>BBC</string>
+		<key>latitude</key>
+		<real>37.336598</real>
+		<key>longitude</key>
+		<real>-121.878633</real>
+		<key>title</key>
+		<string>Boccardo Business Complex</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>ATM</string>
+		<key>latitude</key>
+		<real>37.337314</real>
+		<key>longitude</key>
+		<real>-121.879728</real>
+		<key>title</key>
+		<string>Automated Teller Machines</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>ASH</string>
+		<key>latitude</key>
+		<real>37.333262</real>
+		<key>longitude</key>
+		<real>-121.882668</real>
+		<key>title</key>
+		<string>Associated Students House</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>ART</string>
+		<key>latitude</key>
+		<real>37.336154</real>
+		<key>longitude</key>
+		<real>-121.879889</real>
+		<key>title</key>
+		<string>Art Building</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>AQX</string>
+		<key>latitude</key>
+		<real>37.334892</real>
+		<key>longitude</key>
+		<real>-121.879138</real>
+		<key>title</key>
+		<string>Aquatics Facility</string>
+	</dict>
+	<dict>
+		<key>abbreviation</key>
+		<string>ADM</string>
+		<key>latitude</key>
+		<real>37.336726</real>
+		<key>longitude</key>
+		<real>-121.882946</real>
+		<key>title</key>
+		<string>Adminstration</string>
+	</dict>
+</array>
+</plist>

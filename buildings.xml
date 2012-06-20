@@ -1,0 +1,4347 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<buildings>
+  <building>
+    <abbr>210</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>382</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>386</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>390</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>394</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>84W</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>ADA</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>ADM</abbr>
+    <departments>
+      <department>
+        <name>Academic Affairs Division</name>
+        <phone>4089242400</phone>
+        <zip>0020</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.sjsu.edu/provost/</url>
+      </department>
+      <department>
+        <name>Academic Planning &amp; Budgets</name>
+        <phone>4089242470</phone>
+        <zip>0023</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.apb.sjsu.edu/</url>
+      </department>
+      <department>
+        <name>Academic Senate</name>
+        <phone>4089242440</phone>
+        <zip>0024</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.sjsu.edu/senate/</url>
+      </department>
+      <department>
+        <name>Accreditation</name>
+        <phone>4089242447</phone>
+        <zip>0011</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.sjsu.edu/ugs/</url>
+      </department>
+      <department>
+        <name>ADA</name>
+        <phone>4089246000</phone>
+        <zip>0168</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.drc.sjsu.edu/</url>
+      </department>
+      <department>
+        <name>Articulation</name>
+        <phone>4089242538</phone>
+        <zip>0030</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://info.sjsu.edu/home/artic.html</url>
+      </department>
+      <department>
+        <name>Campus Climate</name>
+        <phone>4089241098</phone>
+        <zip>0263</zip>
+        <email />
+        <floor>02</floor>
+        <url />
+      </department>
+      <department>
+        <name>CDE-Logistics</name>
+        <phone>4089242400</phone>
+        <zip>0020</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.sjsu.edu/provost/</url>
+      </department>
+      <department>
+        <name>Counseling Services</name>
+        <phone>4089245910</phone>
+        <zip>0035</zip>
+        <email>cs0035@email.sjsu.edu</email>
+        <floor>02</floor>
+        <url>http://www.sa.sjsu.edu/counseling/index.html</url>
+      </department>
+      <department>
+        <name>Disability Resource Center</name>
+        <phone>4089246000</phone>
+        <zip>0168</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.drc.sjsu.edu/index.htm</url>
+      </department>
+      <department>
+        <name>Faculty Affairs</name>
+        <phone>4089242450</phone>
+        <zip>0021</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.fa.sjsu.edu/</url>
+      </department>
+      <department>
+        <name>Graduate Studies &amp; Research</name>
+        <phone>4089242427</phone>
+        <zip>0025</zip>
+        <email>Pamela.Stacks@sjsu.edu</email>
+        <floor>2</floor>
+        <url>http://www.sjsu.edu/gradstudies/</url>
+      </department>
+      <department>
+        <name>IES Study Abroad</name>
+        <phone>4089245920</phone>
+        <zip>0135</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Inactive-Disabled Empls Assist</name>
+        <phone>4089246000</phone>
+        <zip>0168</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Institutional Research</name>
+        <phone />
+        <zip>0186</zip>
+        <email>institutional.research@sjsu.edu</email>
+        <floor>1st</floor>
+        <url>http://www.oir.sjsu.edu</url>
+      </department>
+      <department>
+        <name>Provost/VP Academic Affairs</name>
+        <phone>4089242400</phone>
+        <zip>0020</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.sjsu.edu/provost/</url>
+      </department>
+      <department>
+        <name>Undergrad Studies-Foundation</name>
+        <phone>4089242447</phone>
+        <zip>0139</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.sjsu.edu/ugs/</url>
+      </department>
+      <department>
+        <name>Undergraduate Studies</name>
+        <phone>4089242447</phone>
+        <zip>0030</zip>
+        <email>undergraduate.studies@sjsu.edu</email>
+        <floor>01</floor>
+        <url>http://www.sjsu.edu/ugs/</url>
+      </department>
+      <department>
+        <name>VP Student Affairs</name>
+        <phone>4089245900</phone>
+        <zip>0031</zip>
+        <email>vpsa@sjsu.edu</email>
+        <floor>02</floor>
+        <url>http://sa.sjsu.edu/index.jsp</url>
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr>ALL</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>ART</abbr>
+    <departments>
+      <department>
+        <name>Art &amp; Design</name>
+        <phone>4089244320</phone>
+        <zip>0089</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://ad.sjsu.edu/</url>
+      </department>
+      <department>
+        <name>Art &amp; Design-Foundation</name>
+        <phone>4089244320</phone>
+        <zip>0139</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://ad.sjsu.edu/</url>
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr>ASF</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>ASH</abbr>
+    <departments>
+      <department>
+        <name>AS Campus Recreations</name>
+        <phone>4089246218</phone>
+        <zip>0265</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://as.sjsu.edu/ascr/index.jsp</url>
+      </department>
+      <department>
+        <name>AS Spcl Events &amp; Programming</name>
+        <phone>4089246226</phone>
+        <zip>0128</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://as.sjsu.edu/upcoming/index.jsp</url>
+      </department>
+      <department>
+        <name>Assoc Students Administration</name>
+        <phone>4089246200</phone>
+        <zip>0128</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://as.sjsu.edu/asgsc/index.jsp</url>
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr>ATM</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>AV</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>BB</abbr>
+    <departments>
+      <department>
+        <name>Men's Basketball</name>
+        <phone>4089241245</phone>
+        <zip>0062</zip>
+        <email>george.nessman@sjsu.edu</email>
+        <floor>02</floor>
+        <url>http://www.sjsuspartans.com</url>
+      </department>
+      <department>
+        <name>Women's Basketball</name>
+        <phone>4089241241</phone>
+        <zip>0062</zip>
+        <email />
+        <floor>02</floor>
+        <url>http://www.sjsuspartans.com</url>
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr>BBC</abbr>
+    <departments>
+      <department>
+        <name>Business Student Advising Ctr</name>
+        <phone>4089243435</phone>
+        <zip>0065</zip>
+        <email />
+        <floor>Ground Floor</floor>
+        <url>http://www.cob.sjsu.edu/students/advising/</url>
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr>BH</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>BT</abbr>
+    <departments>
+      <department>
+        <name>Accounting &amp; Finance</name>
+        <phone>4089243460</phone>
+        <zip>0066</zip>
+        <email />
+        <floor>8th Floor</floor>
+        <url>http://www.cob.sjsu.edu/acct&amp;fin</url>
+      </department>
+      <department>
+        <name>Business Graduate Programs</name>
+        <phone>4089243420</phone>
+        <zip>0162</zip>
+        <email />
+        <floor>03</floor>
+        <url>http://cobix.cob.sjsu.edu/graduate/</url>
+      </department>
+      <department>
+        <name>Coll of Business - Foundation</name>
+        <phone>4089243400</phone>
+        <zip>0139</zip>
+        <email />
+        <floor>09</floor>
+        <url>http://www.cob.sjsu.edu/</url>
+      </department>
+      <department>
+        <name>College of Business</name>
+        <phone>4089243400</phone>
+        <zip>0065</zip>
+        <email />
+        <floor>09</floor>
+        <url>http://www.cob.sjsu.edu</url>
+      </department>
+      <department>
+        <name>Faculty/Athletics Rep</name>
+        <phone>4089243428</phone>
+        <zip>0002</zip>
+        <email />
+        <floor>09</floor>
+        <url />
+      </department>
+      <department>
+        <name>Management Information Systems</name>
+        <phone>4089247790</phone>
+        <zip>0244</zip>
+        <email />
+        <floor>02</floor>
+        <url>http://www.cob.sjsu.edu/mis/index.htm</url>
+      </department>
+      <department>
+        <name>Marketing &amp; Decis Sci-Foundatn</name>
+        <phone>4089243506</phone>
+        <zip>0139</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Marketing &amp; Decision Sciences</name>
+        <phone>4089243506</phone>
+        <zip>0069</zip>
+        <email />
+        <floor>07</floor>
+        <url>http://WWW.COB.SJSU.EDU/MKT</url>
+      </department>
+      <department>
+        <name>Organization &amp; Management</name>
+        <phone>4089243550</phone>
+        <zip>0070</zip>
+        <email>organdman@cob.sjsu.edu</email>
+        <floor>6</floor>
+        <url>http://www.cob.sjsu.edu/org&amp;mgt/index.htm</url>
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr>CAF</abbr>
+    <departments>
+      <department>
+        <name>Assoc Students Print Shop</name>
+        <phone>4089246291</phone>
+        <zip>0131</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://as.sjsu.edu/asps/index.jsp</url>
+      </department>
+      <department>
+        <name>Orientation Program</name>
+        <phone>4089245950</phone>
+        <zip>0038</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Spartan Catering</name>
+        <phone>4089241737</phone>
+        <zip>0145</zip>
+        <email />
+        <floor />
+        <url>http://www.spartanshops.com</url>
+      </department>
+      <department>
+        <name>Spartan Dining</name>
+        <phone>4089241850</phone>
+        <zip>0145</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.spartanshops.com</url>
+      </department>
+      <department>
+        <name>Spartan Old Cafeteria</name>
+        <phone>4089241755</phone>
+        <zip>0145</zip>
+        <email />
+        <floor />
+        <url>http://www.spartanshops.com</url>
+      </department>
+      <department>
+        <name>Spartan Shops Admin</name>
+        <phone>4089241900</phone>
+        <zip>0153</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.spartanshops.com</url>
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr>CB</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>CC</abbr>
+    <departments>
+      <department>
+        <name>Network Services UCAT</name>
+        <phone />
+        <zip>0209</zip>
+        <email />
+        <floor>2</floor>
+        <url>http://www.sjsu.edu/networking/</url>
+      </department>
+      <department>
+        <name>Project Management Office-UTS</name>
+        <phone>4089242340</phone>
+        <zip>0234</zip>
+        <email>ucat.businessdesk@sjsu.edu</email>
+        <floor>2ND FLOOR</floor>
+        <url>http://www.sjsu.edu/ucat</url>
+      </department>
+      <department>
+        <name>UCAT Systems Support</name>
+        <phone>4089242340</phone>
+        <zip>0013</zip>
+        <email>university.systems@sjsu.edu</email>
+        <floor>2</floor>
+        <url>http://www.sjsu.edu/computing/</url>
+      </department>
+      <department>
+        <name>Univ Computing &amp; Telecomm</name>
+        <phone />
+        <zip>0234</zip>
+        <email>ucat.businessdesk@sjsu.edu</email>
+        <floor>2</floor>
+        <url>http://www.sjsu.edu/ucat</url>
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr>CCB</abbr>
+    <departments>
+      <department>
+        <name>Nutrition &amp; Food Sci-Foundatn</name>
+        <phone>4089243100</phone>
+        <zip>0139</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Nutrition, FoodSci &amp; Packaging</name>
+        <phone>4089243100</phone>
+        <zip>0058</zip>
+        <email>lolaivar@casa.sjsu.edu</email>
+        <floor>02</floor>
+        <url>http://www.nufs.sjsu.edu</url>
+      </department>
+      <department>
+        <name>Occupational Therapy</name>
+        <phone />
+        <zip>0059</zip>
+        <email />
+        <floor>02</floor>
+        <url>http://www.sjsu.edu/ot/</url>
+      </department>
+      <department>
+        <name>SPRI Survey Policy Rsrch Insti</name>
+        <phone>4089246993</phone>
+        <zip>0107</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr>CDC</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>CL</abbr>
+    <departments>
+      <department>
+        <name>Academic Success Center</name>
+        <phone>4089242377</phone>
+        <zip>0026</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.sjsu.edu/asc</url>
+      </department>
+      <department>
+        <name>Accounting &amp; Financial Systems</name>
+        <phone>4089241662</phone>
+        <zip>0042</zip>
+        <email />
+        <floor>05</floor>
+        <url>http://www.sjsu.edu/depts/actcst/</url>
+      </department>
+      <department>
+        <name>Administrative Applications</name>
+        <phone>4089241660</phone>
+        <zip>0264</zip>
+        <email />
+        <floor>05</floor>
+        <url>http://www.sjsu.edu/adminsys/applications/</url>
+      </department>
+      <department>
+        <name>Administrative Databases</name>
+        <phone>4089241660</phone>
+        <zip>0264</zip>
+        <email />
+        <floor>05</floor>
+        <url>http://www.sjsu.edu/adminsys/databases/</url>
+      </department>
+      <department>
+        <name>Administrative Systems</name>
+        <phone>4089241660</phone>
+        <zip>0042</zip>
+        <email />
+        <floor>05</floor>
+        <url>http://www.sjsu.edu/adminsys/</url>
+      </department>
+      <department>
+        <name>Adminstrative Tech Systems</name>
+        <phone>4089241660</phone>
+        <zip>0042</zip>
+        <email />
+        <floor>05</floor>
+        <url>http://www.sjsu.edu/adminsys/technology/index.htm</url>
+      </department>
+      <department>
+        <name>Advancement Operations</name>
+        <phone>4089241160</phone>
+        <zip>0184</zip>
+        <email />
+        <floor>03</floor>
+        <url />
+      </department>
+      <department>
+        <name>Alumni Rels &amp; Alumni Assoc</name>
+        <phone>4089246527</phone>
+        <zip>0126</zip>
+        <email>paul.richardson@sjsu.edu</email>
+        <floor>02</floor>
+        <url>http://www.sjsu.edu/alumni</url>
+      </department>
+      <department>
+        <name>Anthropology</name>
+        <phone>4089245710</phone>
+        <zip>0113</zip>
+        <email />
+        <floor>04</floor>
+        <url>http://www.sjsu.edu/depts/anthropology/</url>
+      </department>
+      <department>
+        <name>Auxiliary</name>
+        <phone>4089241160</phone>
+        <zip>AUXILARY</zip>
+        <email />
+        <floor />
+        <url>http://www.sjsu.edu/towerfoundation/about/</url>
+      </department>
+      <department>
+        <name>Business Info Center</name>
+        <phone>4089241660</phone>
+        <zip>0040</zip>
+        <email />
+        <floor>05</floor>
+        <url>http://www.sjsu.edu/pass/bic/index.shtml</url>
+      </department>
+      <department>
+        <name>Center for Service Learning</name>
+        <phone>4089243540</phone>
+        <zip>0030</zip>
+        <email />
+        <floor>02</floor>
+        <url>http://www.sjsu.edu/ccll/</url>
+      </department>
+      <department>
+        <name>CMS Project Office</name>
+        <phone>4089241530</phone>
+        <zip>0042</zip>
+        <email />
+        <floor>05</floor>
+        <url>http://www.sjsu.edu/mysjsu/about/</url>
+      </department>
+      <department>
+        <name>Convenience Copier Program</name>
+        <phone>4089241566</phone>
+        <zip>0041</zip>
+        <email />
+        <floor>05</floor>
+        <url>http://www.sjsu.edu/pass/ccp/index.shtml</url>
+      </department>
+      <department>
+        <name>Development Univ Advancement</name>
+        <phone>4089241474</phone>
+        <zip>0257</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Finance SJSU</name>
+        <phone>4089241660</phone>
+        <zip>0008</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Foreign Languages</name>
+        <phone>4089244602</phone>
+        <zip>0091</zip>
+        <email>dominique.vanhooff@sjsu.edu</email>
+        <floor>04</floor>
+        <url>http://www.sjsu.edu/foreignlanguages</url>
+      </department>
+      <department>
+        <name>Humanities</name>
+        <phone>4089244465</phone>
+        <zip>0092</zip>
+        <email />
+        <floor>04</floor>
+        <url>http://sjsu.edu/hum/</url>
+      </department>
+      <department>
+        <name>International Programs &amp; Svcs</name>
+        <phone>4089245920</phone>
+        <zip>0221</zip>
+        <email>sjsuips@sjsu.edu</email>
+        <floor>05</floor>
+        <url>http://sjsu.edu/depts/ipss/</url>
+      </department>
+      <department>
+        <name>ITSS Help Desk</name>
+        <phone>4089242377</phone>
+        <zip>0026</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.sjsu.edu/helpdesk/</url>
+      </department>
+      <department>
+        <name>Library &amp; Information Science</name>
+        <phone>4089242490</phone>
+        <zip>0029</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Linguistics &amp; Language Dev</name>
+        <phone>4089244413</phone>
+        <zip>0093</zip>
+        <email>ohala@socrates.berkeley.edu</email>
+        <floor>04</floor>
+        <url>http://linguistics.sjsu.edu/</url>
+      </department>
+      <department>
+        <name>Marketing &amp; Communications</name>
+        <phone>4089241166</phone>
+        <zip />
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Political Science</name>
+        <phone>4089245550</phone>
+        <zip>0119</zip>
+        <email>PoliSci@email.sjsu.edu</email>
+        <floor>04</floor>
+        <url>http://www.sjsu.edu/polisci</url>
+      </department>
+      <department>
+        <name>Procurement Services</name>
+        <phone>4089241560</phone>
+        <zip>0041</zip>
+        <email />
+        <floor>05</floor>
+        <url>http://www.sjsu.edu/pass/</url>
+      </department>
+      <department>
+        <name>Public Affairs</name>
+        <phone>4089241128</phone>
+        <zip>0258</zip>
+        <email>larry.carr@sjsu.edu</email>
+        <floor>3</floor>
+        <url>http://www.sjsu.edu/publicaffairs/</url>
+      </department>
+      <department>
+        <name>SOS-Grad Transportation Prog</name>
+        <phone>4089245897</phone>
+        <zip />
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Student Involvement</name>
+        <phone>4089245950</phone>
+        <zip>0038</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Student Writing Center</name>
+        <phone>4089242308</phone>
+        <zip>0172</zip>
+        <email>writingcenter@sjsu.edu</email>
+        <floor>01</floor>
+        <url>http://www.sjsu.edu/writingcenter/</url>
+      </department>
+      <department>
+        <name>Student Writing Skills</name>
+        <phone>4089244420</phone>
+        <zip>0093</zip>
+        <email />
+        <floor>02</floor>
+        <url>http://linguistics.sjsu.edu/bin/view/Public/LanguageDevelopmentCenter</url>
+      </department>
+      <department>
+        <name>Tower Foundation UA</name>
+        <phone />
+        <zip>0183</zip>
+        <email />
+        <floor>03</floor>
+        <url>http://www.sjsu.edu/towerfoundation/</url>
+      </department>
+      <department>
+        <name>University Advancement VP</name>
+        <phone>4089241120</phone>
+        <zip>0237</zip>
+        <email />
+        <floor>03</floor>
+        <url>http://www.sjsu.edu/advancement/</url>
+      </department>
+      <department>
+        <name>University Budget Office</name>
+        <phone>4089241555</phone>
+        <zip>0004</zip>
+        <email />
+        <floor>05</floor>
+        <url>http://www.sjsu.edu/budget/about/team/</url>
+      </department>
+      <department>
+        <name>VP Administration &amp; Finance</name>
+        <phone>4089241500</phone>
+        <zip>0006</zip>
+        <email />
+        <floor>05</floor>
+        <url>http://www.sjsu.edu/adminfinance/</url>
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr>CP</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>CS</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>CYA</abbr>
+    <departments>
+      <department>
+        <name>Apprentice Program</name>
+        <phone>4089241950</phone>
+        <zip>0010</zip>
+        <email />
+        <floor />
+        <url>http://www.sjsu.edu/fdo/</url>
+      </department>
+      <department>
+        <name>Auto Shop &amp; Transportation</name>
+        <phone>4089241950</phone>
+        <zip>0010</zip>
+        <email />
+        <floor />
+        <url>http://www.sjsu.edu/fdo</url>
+      </department>
+      <department>
+        <name>Building-Carpentry</name>
+        <phone>4089241990</phone>
+        <zip>0010</zip>
+        <email />
+        <floor />
+        <url>http://www.sjsu.edu/fdo/maintenance/carpenter/</url>
+      </department>
+      <department>
+        <name>Building-Electrical</name>
+        <phone>4089241990</phone>
+        <zip>0010</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Building-Fabrication</name>
+        <phone>4089241990</phone>
+        <zip>0010</zip>
+        <email />
+        <floor />
+        <url>http://www.sjsu.edu/fdo/maintenance/fabrication/</url>
+      </department>
+      <department>
+        <name>Building-Paint</name>
+        <phone>4089241990</phone>
+        <zip>0010</zip>
+        <email />
+        <floor />
+        <url>http://www.sjsu.edu/fdo/maintenance/paintshop/</url>
+      </department>
+      <department>
+        <name>Building-Plumbing</name>
+        <phone>4089241990</phone>
+        <zip>0010</zip>
+        <email />
+        <floor />
+        <url>http://www.sjsu.edu/fdo/</url>
+      </department>
+      <department>
+        <name>Building - Lock Shop</name>
+        <phone>4089247100</phone>
+        <zip>0010</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.sjsu.edu/facilities/buildings/lockshop/</url>
+      </department>
+      <department>
+        <name>Campus Recycling</name>
+        <phone>4089241990</phone>
+        <zip>0010</zip>
+        <email />
+        <floor />
+        <url>http://www.sjsu.edu/facilities/recycling/</url>
+      </department>
+      <department>
+        <name>Capital Outlay Project Mgmt</name>
+        <phone>4089241913</phone>
+        <zip>0010</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.sjsu.edu/fdo</url>
+      </department>
+      <department>
+        <name>Central Stores</name>
+        <phone>4089241950</phone>
+        <zip>0010</zip>
+        <email />
+        <floor />
+        <url>http://www.sjsu.edu/fdo/</url>
+      </department>
+      <department>
+        <name>Facilities Development &amp; Ops</name>
+        <phone>4089241950</phone>
+        <zip>0010</zip>
+        <email />
+        <floor />
+        <url>http://www.sjsu.edu/fdo</url>
+      </department>
+      <department>
+        <name>Facilities Planning</name>
+        <phone>4089241950</phone>
+        <zip>0010</zip>
+        <email />
+        <floor />
+        <url>http://www.sjsu.edu/fdo/</url>
+      </department>
+      <department>
+        <name>Facilities Special Projects</name>
+        <phone>4089241950</phone>
+        <zip>0010</zip>
+        <email />
+        <floor />
+        <url>http://www.sjsu.edu/pdc/projects/</url>
+      </department>
+      <department>
+        <name>Facility Space Rental</name>
+        <phone>4089241950</phone>
+        <zip>0010</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>FD&amp;O Administrative Services</name>
+        <phone>4089241950</phone>
+        <zip>0010</zip>
+        <email />
+        <floor />
+        <url>http://www.sjsu.edu/fdo</url>
+      </department>
+      <department>
+        <name>FD&amp;O Capital Outlay Projects</name>
+        <phone>4089241950</phone>
+        <zip>0010</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>FD&amp;O Energy &amp; Utility</name>
+        <phone>4089241950</phone>
+        <zip>0010</zip>
+        <email />
+        <floor />
+        <url>http://www.sjsu.edu/fdo</url>
+      </department>
+      <department>
+        <name>FD&amp;O Facility Maint &amp; Const Sv</name>
+        <phone>4089241921</phone>
+        <zip>0010</zip>
+        <email>John.Skyberg@sjsu.edu</email>
+        <floor />
+        <url>http://www.sjsu.edu/fdo</url>
+      </department>
+      <department>
+        <name>FD&amp;O Facility Operations</name>
+        <phone>4089241950</phone>
+        <zip>0010</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>FD&amp;O Plng Design &amp; Constructin</name>
+        <phone>4089241950</phone>
+        <zip>0010</zip>
+        <email />
+        <floor />
+        <url>http://www.sjsu.edu/fdo</url>
+      </department>
+      <department>
+        <name>Grounds Main Campus</name>
+        <phone>4089241976</phone>
+        <zip>0010</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Grounds South Campus</name>
+        <phone>4089241974</phone>
+        <zip>0010</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Mailroom</name>
+        <phone>4089241599</phone>
+        <zip>0001</zip>
+        <email>Dan.Soriano@sjsu.edu</email>
+        <floor />
+        <url>http://www.sjsu.edu/pass/mail/index.shtml</url>
+      </department>
+      <department>
+        <name>Receiving/Shipping</name>
+        <phone>4089241590</phone>
+        <zip>0048</zip>
+        <email>Salvador.Campos@sjsu.edu</email>
+        <floor />
+        <url>http://www.sjsu.edu/pass/shiprec/</url>
+      </department>
+      <department>
+        <name>Support Admin Services FD&amp;O</name>
+        <phone>4089241950</phone>
+        <zip>0010</zip>
+        <email />
+        <floor>2nd Floor</floor>
+        <url>http://www.sjsu.edu/fdo/</url>
+      </department>
+      <department>
+        <name>Utility Plant</name>
+        <phone>4089241990</phone>
+        <zip>0010</zip>
+        <email />
+        <floor />
+        <url>http://www.sjsu.edu/fdo/energy/</url>
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr>CYB</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>DBH</abbr>
+    <departments>
+      <department>
+        <name>Journalism &amp; Mass Comm</name>
+        <phone>4089243240</phone>
+        <zip>0055</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.jmcweb.sjsu.edu</url>
+      </department>
+      <department>
+        <name>Spartan Daily</name>
+        <phone>4089243281</phone>
+        <zip>0149</zip>
+        <email />
+        <floor>02</floor>
+        <url>http://www.thespartandaily.com/</url>
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr>DC</abbr>
+    <departments>
+      <department>
+        <name>Spartan Dining Commons</name>
+        <phone>4089241740</phone>
+        <zip>0167</zip>
+        <email />
+        <floor />
+        <url>http://www.spartanshops.com</url>
+      </department>
+      <department>
+        <name>Spartan Residential Dining</name>
+        <phone>4089241740</phone>
+        <zip>0167</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr>DH</abbr>
+    <departments>
+      <department>
+        <name>Biological Sciences</name>
+        <phone>4089244900</phone>
+        <zip>0100</zip>
+        <email>john.boothby@sjsu.edu</email>
+        <floor>02</floor>
+        <url>http://www.biology.sjsu.edu/index.aspx</url>
+      </department>
+      <department>
+        <name>Biological Sciences-Foundation</name>
+        <phone>4089244900</phone>
+        <zip>0139</zip>
+        <email />
+        <floor>02</floor>
+        <url>http://www.biology.sjsu.edu/contactus.aspx</url>
+      </department>
+      <department>
+        <name>Chemistry</name>
+        <phone>4089245000</phone>
+        <zip>0101</zip>
+        <email />
+        <floor>05</floor>
+        <url>http://www.chemistry.sjsu.edu/</url>
+      </department>
+      <department>
+        <name>Chemistry-Foundation</name>
+        <phone>4089245000</phone>
+        <zip>0139</zip>
+        <email />
+        <floor>05</floor>
+        <url>http://www.chemistry.sjsu.edu/</url>
+      </department>
+      <department>
+        <name>Geology</name>
+        <phone>4089245050</phone>
+        <zip>0102</zip>
+        <email />
+        <floor>3rd Floor</floor>
+        <url>http://www.sjsugeology.org/</url>
+      </department>
+      <department>
+        <name>Meteorology</name>
+        <phone>4089245200</phone>
+        <zip>0104</zip>
+        <email>freedman@air-basics.com</email>
+        <floor />
+        <url>http://metsun1.sjsu.edu/</url>
+      </department>
+      <department>
+        <name>Meteorology-Foundation</name>
+        <phone>4089245200</phone>
+        <zip>0139</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Nuclear Science</name>
+        <phone>4089244820</phone>
+        <zip>0163</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Science Education</name>
+        <phone>4089245193</phone>
+        <zip>0099</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>SOS-MS Biotechnology</name>
+        <phone>4089244880</phone>
+        <zip>0100</zip>
+        <email>mbt@science.sjsu.edu</email>
+        <floor />
+        <url>http://www.science.sjsu.edu/mbt/homepage.html</url>
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr>DMH</abbr>
+    <departments>
+      <department>
+        <name>Center for Economic Educ</name>
+        <phone>4089245400</phone>
+        <zip>0114</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.sjsu.edu/depts/economics/</url>
+      </department>
+      <department>
+        <name>Economics</name>
+        <phone>4089245400</phone>
+        <zip>0114</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.sjsu.edu/depts/economics/</url>
+      </department>
+      <department>
+        <name>History</name>
+        <phone>4089245500</phone>
+        <zip>0117</zip>
+        <email>history1@email.sjsu.edu</email>
+        <floor>01</floor>
+        <url>http://www.sjsu.edu/depts/history/index.htm</url>
+      </department>
+      <department>
+        <name>Psychology</name>
+        <phone>4089245600</phone>
+        <zip>0120</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.psych.sjsu.edu/</url>
+      </department>
+      <department>
+        <name>Psychology-Foundation</name>
+        <phone>4089245600</phone>
+        <zip>0139</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Social Sciences</name>
+        <phone>4089245740</phone>
+        <zip>0121</zip>
+        <email>socs@email.sjsu.edu</email>
+        <floor>02</floor>
+        <url>http://www.sjsu.edu/depts/socs/index.htm</url>
+      </department>
+      <department>
+        <name>Sociology</name>
+        <phone>4089245320</phone>
+        <zip>0122</zip>
+        <email>socio@email.sjsu.edu</email>
+        <floor>02</floor>
+        <url>http://www.sjsu.edu/sociology</url>
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr>EC</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>ELEV</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>ENG</abbr>
+    <departments>
+      <department>
+        <name>Aerospace Engineering</name>
+        <phone>4089243850</phone>
+        <zip>0087</zip>
+        <email />
+        <floor>03</floor>
+        <url>http://www.engr.sjsu.edu/mae/</url>
+      </department>
+      <department>
+        <name>Chemical Engineering</name>
+        <phone>4089244000</phone>
+        <zip>0082</zip>
+        <email />
+        <floor>03</floor>
+        <url>http://www.engr.sjsu.edu/cme/</url>
+      </department>
+      <department>
+        <name>Civil &amp; Environ Engineering</name>
+        <phone>4089243900</phone>
+        <zip>0083</zip>
+        <email>civileng@email.sjsu.edu</email>
+        <floor>01</floor>
+        <url>http://www.engr.sjsu.edu/civil/</url>
+      </department>
+      <department>
+        <name>Civil &amp; Environ Engr-Foundatn</name>
+        <phone>4089243900</phone>
+        <zip>0139</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.engr.sjsu.edu/civil/</url>
+      </department>
+      <department>
+        <name>Coll Engineering - Foundation</name>
+        <phone>4089243803</phone>
+        <zip>0139</zip>
+        <email />
+        <floor>04</floor>
+        <url>http://www.engr.sjsu.edu/</url>
+      </department>
+      <department>
+        <name>College of Engineering</name>
+        <phone>4089243800</phone>
+        <zip>0080</zip>
+        <email>belle.wei@sjsu.edu</email>
+        <floor>4th</floor>
+        <url>http://www.engr.sjsu.edu</url>
+      </department>
+      <department>
+        <name>Computer Engineering</name>
+        <phone>4089244151</phone>
+        <zip>0180</zip>
+        <email>cmpe@email.sjsu.edu</email>
+        <floor>2nd</floor>
+        <url>http://www.engr.sjsu.edu/cmpe/</url>
+      </department>
+      <department>
+        <name>Computer Enginrg-Foundation</name>
+        <phone>4089244150</phone>
+        <zip>0139</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Electrical Engineering</name>
+        <phone>4089243950</phone>
+        <zip>0084</zip>
+        <email />
+        <floor>03</floor>
+        <url>http://www.engr.sjsu.edu/electrical/</url>
+      </department>
+      <department>
+        <name>Engineerng Student Success Ctr</name>
+        <phone />
+        <zip>0080</zip>
+        <email>success.engineering@sjsu.edu</email>
+        <floor>Third</floor>
+        <url>http://www.engr.sjsu.edu/students/essc</url>
+      </department>
+      <department>
+        <name>General Engineering</name>
+        <phone>4089243968</phone>
+        <zip>0205</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Industrial &amp; Systems Engr</name>
+        <phone>4089243301</phone>
+        <zip>0085</zip>
+        <email>isengr@email.sjsu.edu</email>
+        <floor>4th</floor>
+        <url>http://www.engr.sjsu.edu/ise</url>
+      </department>
+      <department>
+        <name>Material &amp; Chemical Eng</name>
+        <phone>4089244000</phone>
+        <zip>0082</zip>
+        <email />
+        <floor>03</floor>
+        <url>http://www.engr.sjsu.edu/cme/</url>
+      </department>
+      <department>
+        <name>Materials Engineering</name>
+        <phone>4089244000</phone>
+        <zip>0082</zip>
+        <email />
+        <floor>03</floor>
+        <url>http://www.engr.sjsu.edu/cme/</url>
+      </department>
+      <department>
+        <name>Mechanical &amp; Aerospace Eng</name>
+        <phone>4089243850</phone>
+        <zip>0087</zip>
+        <email>mecheng@email.sjsu.edu</email>
+        <floor>03</floor>
+        <url>http://www.engr.sjsu.edu/mae</url>
+      </department>
+      <department>
+        <name>Mechanical Engineering</name>
+        <phone>4089243850</phone>
+        <zip>0087</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Minority Engineering Program</name>
+        <phone>4089243830</phone>
+        <zip>0181</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr>FHE</abbr>
+    <departments>
+      <department>
+        <name>Baseball</name>
+        <phone>4089241255</phone>
+        <zip>0062</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.sjsuspartans.com</url>
+      </department>
+      <department>
+        <name>Men's Soccer</name>
+        <phone>4089241261</phone>
+        <zip>0062</zip>
+        <email>gstclair@email.sjsu.edu</email>
+        <floor />
+        <url>http://www.sjsuspartans.com</url>
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr>FIRE</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>FOB</abbr>
+    <departments>
+      <department>
+        <name>English</name>
+        <phone>4089244425</phone>
+        <zip>0090</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.sjsu.edu/english/</url>
+      </department>
+      <department>
+        <name>English &amp; Comp Lit-Foundation</name>
+        <phone>4089244425</phone>
+        <zip>0139</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.sjsu.edu/english/</url>
+      </department>
+      <department>
+        <name>Philosophy</name>
+        <phone>4089244468</phone>
+        <zip>0096</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.sjsu.edu/philosophy/</url>
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr>G</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>GATE</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>GEN</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>HB</abbr>
+    <departments>
+      <department>
+        <name>Nursing</name>
+        <phone>4089243131</phone>
+        <zip>0057</zip>
+        <email />
+        <floor>04</floor>
+        <url>http://www.sjsu.edu/nursing</url>
+      </department>
+      <department>
+        <name>Nursing-Foundation</name>
+        <phone>4089243130</phone>
+        <zip>0139</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Student Health Center</name>
+        <phone>4089246122</phone>
+        <zip>0037</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Student Health Svcs-Foundation</name>
+        <phone>4089246120</phone>
+        <zip>0139</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr>HGH</abbr>
+    <departments>
+      <department>
+        <name>Communication Studies</name>
+        <phone>4089245360</phone>
+        <zip>0112</zip>
+        <email>sjcoopman@gmail.com</email>
+        <floor>01</floor>
+        <url>http://www.sjsu.edu/depts/commstudies/</url>
+      </department>
+      <department>
+        <name>KSJS Radio</name>
+        <phone>4089244548</phone>
+        <zip>0094</zip>
+        <email>ksjs@ksjs.org</email>
+        <floor>01</floor>
+        <url>http://www.ksjs.org/</url>
+      </department>
+      <department>
+        <name>TV, Radio, Film &amp; Theatre</name>
+        <phone>4089244530</phone>
+        <zip>0098</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.tvradiofilmtheatre.com</url>
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr>HH</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>HUM</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>IMPR</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>IRC</abbr>
+    <departments>
+      <department>
+        <name>Acad Tech Cisco Lab</name>
+        <phone>4089242850</phone>
+        <zip>0026</zip>
+        <email />
+        <floor>02</floor>
+        <url>http://www.sjsu.edu/acadtech/</url>
+      </department>
+      <department>
+        <name>Acad Tech Website Des &amp; Maint</name>
+        <phone>4089242894</phone>
+        <zip>0026</zip>
+        <email />
+        <floor>02</floor>
+        <url>http://www.sjsu.edu/webservices/</url>
+      </department>
+      <department>
+        <name>Academic Technology</name>
+        <phone>4089242850</phone>
+        <zip>0026</zip>
+        <email />
+        <floor>02</floor>
+        <url>http://www.sjsu.edu/acadtech</url>
+      </department>
+      <department>
+        <name>AT Projects</name>
+        <phone>4089242850</phone>
+        <zip>0026</zip>
+        <email />
+        <floor>02</floor>
+        <url>http://www.sjsu.edu/acadtech/</url>
+      </department>
+      <department>
+        <name>Audio Visual</name>
+        <phone>4089242436</phone>
+        <zip>0026</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.sjsu.edu/avtech/</url>
+      </department>
+      <department>
+        <name>Center for Faculty Development</name>
+        <phone>4089242303</phone>
+        <zip>0026</zip>
+        <email />
+        <floor>02</floor>
+        <url>http://www.sjsu.edu/cfd/</url>
+      </department>
+      <department>
+        <name>Faculty Development Grant</name>
+        <phone>4089242303</phone>
+        <zip>0021</zip>
+        <email />
+        <floor>02</floor>
+        <url>http://www.sjsu.edu/cfd/</url>
+      </department>
+      <department>
+        <name>Inst Teaching &amp; Learning</name>
+        <phone>4089243067</phone>
+        <zip>0021</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Media Services</name>
+        <phone>4089242888</phone>
+        <zip>0026</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.sjsu.edu/mediaservices/</url>
+      </department>
+      <department>
+        <name>TV Education Network</name>
+        <phone>4089242636</phone>
+        <zip>0169</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr>IS</abbr>
+    <departments>
+      <department>
+        <name>Aerospace Studies</name>
+        <phone>4089242960</phone>
+        <zip>0051</zip>
+        <email />
+        <floor>02</floor>
+        <url>http://www.sjsu.edu/depts/AFROTC/contact/contact.html</url>
+      </department>
+      <department>
+        <name>Aviation</name>
+        <phone>4089243190</phone>
+        <zip>0081</zip>
+        <email>avtech@sjsu.edu</email>
+        <floor>01</floor>
+        <url>http://www.engr.sjsu.edu/avtech/</url>
+      </department>
+      <department>
+        <name>Deaf Student Svcs</name>
+        <phone>4089246542</phone>
+        <zip>0168</zip>
+        <email />
+        <floor>02</floor>
+        <url>http://www.drc.sjsu.edu/student_services/dhoh_program.htm</url>
+      </department>
+      <department>
+        <name>Printing &amp; Graphic Solutions</name>
+        <phone>4089241583</phone>
+        <zip>0044</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Studies in Amer Lang-Foundatn</name>
+        <phone>4089242660</phone>
+        <zip>0139</zip>
+        <email>sal@salmail.sjsu.edu</email>
+        <floor>02</floor>
+        <url>http://www.sal.sjsu.edu/</url>
+      </department>
+      <department>
+        <name>Technology</name>
+        <phone>4089243190</phone>
+        <zip>0061</zip>
+        <email>avtech@sjsu.edu</email>
+        <floor>01</floor>
+        <url>http://www.engr.sjsu.edu/avtech/</url>
+      </department>
+      <department>
+        <name>Testing</name>
+        <phone>4089245980</phone>
+        <zip>0039</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr>JWH</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>KOR</abbr>
+    <departments>
+      <department>
+        <name>Strength &amp; Conditioning</name>
+        <phone>4089241304</phone>
+        <zip>0062</zip>
+        <email>chris.holder@sjsu.edu</email>
+        <floor />
+        <url>http://www.sjsuspartans.com</url>
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr>LITE</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>lkr</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>M-1</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>M-2</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>M-3</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>M-A</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>M-B</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>M-C</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>MD</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>M-D</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>M-E</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>M-F</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>M-G</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>MH</abbr>
+    <departments>
+      <department>
+        <name>CE AJ Bureau-Foundation</name>
+        <phone>4089242940</phone>
+        <zip>0139</zip>
+        <email />
+        <floor>05</floor>
+        <url>http://www.sjsu.edu/justicestudies/</url>
+      </department>
+      <department>
+        <name>College of Applied Sci &amp; Arts</name>
+        <phone>4089242900</phone>
+        <zip>0049</zip>
+        <email />
+        <floor>04</floor>
+        <url>http://www.sjsu.edu/casa/</url>
+      </department>
+      <department>
+        <name>College of AS&amp;A - Foundation</name>
+        <phone>4089242900</phone>
+        <zip>0139</zip>
+        <email />
+        <floor>04</floor>
+        <url>http://www.sjsu.edu/casa/</url>
+      </department>
+      <department>
+        <name>Computer Science</name>
+        <phone>4089245060</phone>
+        <zip>0249</zip>
+        <email />
+        <floor />
+        <url>http://www.cs.sjsu.edu/</url>
+      </department>
+      <department>
+        <name>Gerontology Center</name>
+        <phone />
+        <zip>0140</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.casa.sjsu.edu/</url>
+      </department>
+      <department>
+        <name>Health Professions</name>
+        <phone>4089242900</phone>
+        <zip>0049</zip>
+        <email />
+        <floor>04</floor>
+        <url>http://www.casa.sjsu.edu/</url>
+      </department>
+      <department>
+        <name>Health Science</name>
+        <phone>4089242970</phone>
+        <zip>0052</zip>
+        <email>healthscience@casa.sjsu.edu</email>
+        <floor>04</floor>
+        <url>http://www.sjsu.edu/healthscience</url>
+      </department>
+      <department>
+        <name>Justice Studies</name>
+        <phone>4089242940</phone>
+        <zip>0050</zip>
+        <email />
+        <floor>05</floor>
+        <url>http://www.sjsu.edu/justicestudies</url>
+      </department>
+      <department>
+        <name>Justice Studies-Foundation</name>
+        <phone>4089242940</phone>
+        <zip>0139</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Mathematics</name>
+        <phone />
+        <zip />
+        <email />
+        <floor />
+        <url />
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr>MK</abbr>
+    <departments>
+      <department>
+        <name>Spartan Library Cafe</name>
+        <phone />
+        <zip>0145</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.spartanshops.com</url>
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr>ML</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>MLD</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>MLK</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>MUS</abbr>
+    <departments>
+      <department>
+        <name>Marching Band</name>
+        <phone>4089244643</phone>
+        <zip>0095</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Music &amp; Dance</name>
+        <phone>4089244673</phone>
+        <zip>0095</zip>
+        <email />
+        <floor>01</floor>
+        <url />
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr>NASA</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>NPG</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>OUT</abbr>
+    <departments>
+      <department>
+        <name>Drama IRA</name>
+        <phone />
+        <zip>0098</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Stage Management</name>
+        <phone />
+        <zip>0098</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>TV/Film Production IRA</name>
+        <phone />
+        <zip>0098</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr>P1</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>P10</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>P2</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>P3</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>P4</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>P5</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>P6</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>P7</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>P8</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>P9</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>PKG</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>Q</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>RYC</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>SAB</abbr>
+    <departments>
+      <department>
+        <name>Athl-Learfield Sports Proprts</name>
+        <phone>4089242790</phone>
+        <zip>0062</zip>
+        <email />
+        <floor />
+        <url>http://www.sjsuspartans.com/</url>
+      </department>
+      <department>
+        <name>Athletic Business Office</name>
+        <phone>4089241312</phone>
+        <zip>0062</zip>
+        <email>matt.witty@sjsu.edu</email>
+        <floor>01</floor>
+        <url>http://www.sjsuspartans.com</url>
+      </department>
+      <department>
+        <name>Athletic Director's Office</name>
+        <phone>4089241200</phone>
+        <zip>0062</zip>
+        <email>thomas.bowen@sjsu.edu</email>
+        <floor>01</floor>
+        <url>http://www.sjsuspartans.com</url>
+      </department>
+      <department>
+        <name>Athletic Equipment Room</name>
+        <phone>4089241267</phone>
+        <zip>0062</zip>
+        <email>eric.howitt@sjsu.edu</email>
+        <floor />
+        <url>http://www.sjsuspartans.com</url>
+      </department>
+      <department>
+        <name>Athletic Maint/Facilities</name>
+        <phone>4089241729</phone>
+        <zip>0062</zip>
+        <email>doug.kelley@sjsu.edu</email>
+        <floor>01</floor>
+        <url>http://www.sjsuspartans.com</url>
+      </department>
+      <department>
+        <name>Athletic Marketing</name>
+        <phone>4089241697</phone>
+        <zip>0062</zip>
+        <email>michael.beaubien@sjsu.edu</email>
+        <floor />
+        <url>http://www.sjsuspartans.com</url>
+      </department>
+      <department>
+        <name>Athletic Ticket Office</name>
+        <phone>4089241548</phone>
+        <zip>0062</zip>
+        <email>dcoelho@sjsu.edu</email>
+        <floor>01</floor>
+        <url>http://www.sjsuspartans.com</url>
+      </department>
+      <department>
+        <name>Athletics Academics</name>
+        <phone>4089241200</phone>
+        <zip>0062</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.sjsuspartans.com</url>
+      </department>
+      <department>
+        <name>Athletics Basketball Regional</name>
+        <phone>4089241200</phone>
+        <zip>0062</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.sjsuspartans.com/Search.dbml</url>
+      </department>
+      <department>
+        <name>Athletics Broadcasting</name>
+        <phone>4089241244</phone>
+        <zip>0062</zip>
+        <email>mchishol@email.sjsu.edu</email>
+        <floor />
+        <url>http://www.sjsuspartans.com</url>
+      </department>
+      <department>
+        <name>Athletics CHAMPS/Life Skills</name>
+        <phone>4089241200</phone>
+        <zip>0062</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Athletics Corporate Developmnt</name>
+        <phone>4089241198</phone>
+        <zip>0062</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Athletics Facilities &amp; Events</name>
+        <phone>4089241239</phone>
+        <zip>0062</zip>
+        <email>jody.smith@sjsu.edu</email>
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Athletics Internal Operations</name>
+        <phone>4089241739</phone>
+        <zip>0062</zip>
+        <email />
+        <floor>01</floor>
+        <url />
+      </department>
+      <department>
+        <name>Athletics Junior Spartans</name>
+        <phone>4089241727</phone>
+        <zip>0062</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Athletics Order of Sparta</name>
+        <phone>4089243300</phone>
+        <zip>0062</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Athletics Spartan Stadium</name>
+        <phone>4089241206</phone>
+        <zip>0062</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Athletics Special Events</name>
+        <phone>4089241239</phone>
+        <zip>0062</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Athletics Stadium Concessions</name>
+        <phone>4089241739</phone>
+        <zip>0062</zip>
+        <email />
+        <floor />
+        <url>http://www.sjsuspartans.com/</url>
+      </department>
+      <department>
+        <name>Athletics Tournament</name>
+        <phone>4089241239</phone>
+        <zip>0062</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>External Athletic Operations</name>
+        <phone>4089241739</phone>
+        <zip>0062</zip>
+        <email>jglass@email.sjsu.edu</email>
+        <floor>01</floor>
+        <url>http://www.sjsuspartans.com</url>
+      </department>
+      <department>
+        <name>Men's Cross Country</name>
+        <phone>4089241465</phone>
+        <zip>0062</zip>
+        <email>sjsuspartancc@yahoo.com</email>
+        <floor />
+        <url>http://www.sjsuspartans.com</url>
+      </department>
+      <department>
+        <name>Men's Golf</name>
+        <phone>4089241251</phone>
+        <zip>0062</zip>
+        <email>john.kennaday@sjsu.edu</email>
+        <floor />
+        <url>http://www.sjsuspartans.com</url>
+      </department>
+      <department>
+        <name>Softball</name>
+        <phone>4089241253</phone>
+        <zip>0062</zip>
+        <email>aenabenter@sjsu.edu</email>
+        <floor />
+        <url>http://www.sjsuspartans.com</url>
+      </department>
+      <department>
+        <name>Spartan Foundation</name>
+        <phone>4089241230</phone>
+        <zip>0062</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.sjsuspartans.com</url>
+      </department>
+      <department>
+        <name>Sports Information</name>
+        <phone>4089241217</phone>
+        <zip>0062</zip>
+        <email>ltfan@email.sjsu.edu</email>
+        <floor />
+        <url>http://www.sjsuspartans.com</url>
+      </department>
+      <department>
+        <name>Student-Athlete Academic Svcs</name>
+        <phone>4089242040</phone>
+        <zip>0062</zip>
+        <email>eileen.daley@sjsu.edu</email>
+        <floor />
+        <url>http://www.sjsuspartans.com</url>
+      </department>
+      <department>
+        <name>Women's Cross Country</name>
+        <phone>4089241465</phone>
+        <zip>0062</zip>
+        <email>sjsuspartancc@yahoo.com</email>
+        <floor>01</floor>
+        <url>http://www.sjsuspartans.com</url>
+      </department>
+      <department>
+        <name>Women's Golf</name>
+        <phone>4089241250</phone>
+        <zip>0062</zip>
+        <email>jdormann@email.sjsu.edu</email>
+        <floor>01</floor>
+        <url>http://www.sjsuspartans.com</url>
+      </department>
+      <department>
+        <name>Women's Gymnastics</name>
+        <phone>4089241390</phone>
+        <zip>0062</zip>
+        <email>wwright@sjsu.edu</email>
+        <floor />
+        <url>http://www.sjsuspartans.com</url>
+      </department>
+      <department>
+        <name>Women's Soccer</name>
+        <phone>4089241718</phone>
+        <zip>0062</zip>
+        <email>dsiracusa@sjsu.edu</email>
+        <floor />
+        <url>http://www.sjsuspartans.com</url>
+      </department>
+      <department>
+        <name>Women's Swimming</name>
+        <phone>4089241225</phone>
+        <zip>0062</zip>
+        <email>mnvwales@aol.com</email>
+        <floor />
+        <url>http://www.sjsuspartans.com</url>
+      </department>
+      <department>
+        <name>Women's Tennis</name>
+        <phone>4089241327</phone>
+        <zip>0062</zip>
+        <email>adn10s@yahoo.com</email>
+        <floor />
+        <url>http://www.sjsuspartans.com</url>
+      </department>
+      <department>
+        <name>Women's Volleyball</name>
+        <phone>4089241242</phone>
+        <zip>0062</zip>
+        <email>cchoate@email.sjsu.edu</email>
+        <floor />
+        <url>http://www.sjsuspartans.com</url>
+      </department>
+      <department>
+        <name>Women's Water Polo</name>
+        <phone>4089241523</phone>
+        <zip>0062</zip>
+        <email>ltully@email.sjsu.edu</email>
+        <floor />
+        <url>http://www.sjsuspartans.com</url>
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr>SCI</abbr>
+    <departments>
+      <department>
+        <name>Coll of  Science - Foundation</name>
+        <phone>4089244800</phone>
+        <zip>0139</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.science.sjsu.edu/</url>
+      </department>
+      <department>
+        <name>College of Science</name>
+        <phone>4089244800</phone>
+        <zip>0099</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.science.sjsu.edu/</url>
+      </department>
+      <department>
+        <name>Physics-Foundation</name>
+        <phone>4089245210</phone>
+        <zip>0139</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Physics &amp; Astronomy</name>
+        <phone>4089245210</phone>
+        <zip>0106</zip>
+        <email>physics@sjsu.edu</email>
+        <floor>01</floor>
+        <url>http://www.physics.sjsu.edu/</url>
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr>SCY</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>SEN</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>SH</abbr>
+    <departments>
+      <department>
+        <name>Admin &amp; Higher Educ-Foundation</name>
+        <phone>4089243616</phone>
+        <zip>0139</zip>
+        <email />
+        <floor>04</floor>
+        <url />
+      </department>
+      <department>
+        <name>Child &amp; Adolescent Development</name>
+        <phone>4089243718</phone>
+        <zip>0075</zip>
+        <email>childdev@email.sjsu.edu</email>
+        <floor>02</floor>
+        <url>http://www.sjsu.edu/chad</url>
+      </department>
+      <department>
+        <name>Coll of Education - Foundation</name>
+        <phone>4089243600</phone>
+        <zip>0139</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.sjsu.edu/education/</url>
+      </department>
+      <department>
+        <name>College of Education</name>
+        <phone>4089243600</phone>
+        <zip>0071</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.sjsu.edu/education/</url>
+      </department>
+      <department>
+        <name>Comm Disorders &amp; Sci-Foundatio</name>
+        <phone>4089243688</phone>
+        <zip>0139</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.sjsu.edu/cds/</url>
+      </department>
+      <department>
+        <name>Communicative Disorders</name>
+        <phone>4089243688</phone>
+        <zip>0079</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.sjsu.edu/cds</url>
+      </department>
+      <department>
+        <name>Counselor Education</name>
+        <phone>4089243634</phone>
+        <zip>0073</zip>
+        <email />
+        <floor>04</floor>
+        <url>http://www.sjsu.edu/counselored</url>
+      </department>
+      <department>
+        <name>Counselor Education-Foundation</name>
+        <phone>4089243634</phone>
+        <zip>0139</zip>
+        <email />
+        <floor>04</floor>
+        <url>http://www.sjsu.edu/counselored/</url>
+      </department>
+      <department>
+        <name>Education Leader/Develop</name>
+        <phone>4089243616</phone>
+        <zip>0071</zip>
+        <email />
+        <floor>04</floor>
+        <url>http://www.sjsu.edu/edleadership/</url>
+      </department>
+      <department>
+        <name>Educational Leadership</name>
+        <phone>4089243616</phone>
+        <zip>0072</zip>
+        <email />
+        <floor>02</floor>
+        <url>http://www.sjsu.edu/edleadership</url>
+      </department>
+      <department>
+        <name>Elementary Education</name>
+        <phone>4089243771</phone>
+        <zip>0074</zip>
+        <email />
+        <floor>3rd</floor>
+        <url>http://www.sjsu.edu/elementaryed/</url>
+      </department>
+      <department>
+        <name>Instructional Tech-Foundation</name>
+        <phone>4089243620</phone>
+        <zip>0139</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Instructional Technology</name>
+        <phone>4089243620</phone>
+        <zip>0076</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Secondary Education</name>
+        <phone>4089243755</phone>
+        <zip>0077</zip>
+        <email>seced@email.sjsu.edu</email>
+        <floor>03</floor>
+        <url>http://www.sjsu.edu/secondaryed/</url>
+      </department>
+      <department>
+        <name>Special Educ &amp; Rehab-Foundatn</name>
+        <phone>4089243700</phone>
+        <zip>0139</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Special Education</name>
+        <phone>4089243700</phone>
+        <zip>0078</zip>
+        <email>speceduc@email.sjsu.edu</email>
+        <floor>02</floor>
+        <url>http://www.sjsu.edu/specialed</url>
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr>SIM</abbr>
+    <departments>
+      <department>
+        <name>Athletic Training Room</name>
+        <phone>4089241256</phone>
+        <zip>0062</zip>
+        <email>scott.shaw@sjsu.edu</email>
+        <floor />
+        <url>http://www.sjsuspartans.com</url>
+      </department>
+      <department>
+        <name>Athletics Video Operations</name>
+        <phone>4089241276</phone>
+        <zip>0062</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Football</name>
+        <phone>4089241266</phone>
+        <zip>0062</zip>
+        <email>lisa.vlay@sjsu.edu</email>
+        <floor />
+        <url>http://www.sjsuspartans.com</url>
+      </department>
+      <department>
+        <name>Intercollegiate Athletics</name>
+        <phone>4089241200</phone>
+        <zip>0062</zip>
+        <email />
+        <floor />
+        <url>http://www.sjsuspartans.com</url>
+      </department>
+      <department>
+        <name>Student Success Center</name>
+        <phone>4089241252</phone>
+        <zip>0194</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr>SPC</abbr>
+    <departments>
+      <department>
+        <name>Hospitality, Recr &amp; Tour Mgm't</name>
+        <phone>4089243000</phone>
+        <zip>0211</zip>
+        <email>jason.amarante@sjsu.edu</email>
+        <floor>01</floor>
+        <url>http://www.sjsu.edu/hrtm/</url>
+      </department>
+      <department>
+        <name>Kinesiology</name>
+        <phone>4089243010</phone>
+        <zip>0054</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr>SPE</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>SPG</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>SPM</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>SPS</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>SPV</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>SSC</abbr>
+    <departments>
+      <department>
+        <name>Acad Advising &amp; Retention Svcs</name>
+        <phone>4089242129</phone>
+        <zip>0193</zip>
+        <email>Cindy.Kato@sjsu.edu</email>
+        <floor>01</floor>
+        <url>http://www.sjsu.edu/aars/</url>
+      </department>
+      <department>
+        <name>Academic Services-Foundation</name>
+        <phone>4089242129</phone>
+        <zip>0139</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.sjsu.edu/aars/</url>
+      </department>
+      <department>
+        <name>Aspire-McNair</name>
+        <phone>4089242540</phone>
+        <zip>0194</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://aspire.sjsu.edu/</url>
+      </department>
+      <department>
+        <name>Bursar's Office</name>
+        <phone>4089241601</phone>
+        <zip>0138</zip>
+        <email>bursar@sjsu.edu</email>
+        <floor>01</floor>
+        <url>http://www.sjsu.edu/bursar/</url>
+      </department>
+      <department>
+        <name>CIS-Recruitment &amp; Advising</name>
+        <phone>4089242129</phone>
+        <zip>0193</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.sjsu.edu/aars/</url>
+      </department>
+      <department>
+        <name>Early Assessment Program</name>
+        <phone>4089243221</phone>
+        <zip>0011</zip>
+        <email>treisz@sjsu.edu</email>
+        <floor>506</floor>
+        <url>http://pcp.sjsu.edu/programs/eap/</url>
+      </department>
+      <department>
+        <name>Educ Opportunity Program</name>
+        <phone>4089242592</phone>
+        <zip>0196</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.sjsu.edu/eop/</url>
+      </department>
+      <department>
+        <name>Enrl Services Support Svc</name>
+        <phone />
+        <zip>0197</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.sjsu.edu/eas/</url>
+      </department>
+      <department>
+        <name>Enrl Svcs Adm &amp; Tech Service</name>
+        <phone>4089242129</phone>
+        <zip>0199</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.sjsu.edu/aars/</url>
+      </department>
+      <department>
+        <name>Enrollment Services</name>
+        <phone />
+        <zip>0011</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.sjsu.edu/eas/</url>
+      </department>
+      <department>
+        <name>Enrollment Svcs Systems</name>
+        <phone />
+        <zip>0199</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.sjsu.edu/eas/</url>
+      </department>
+      <department>
+        <name>Equity Adm/Transcript Svcs</name>
+        <phone />
+        <zip>0011</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.sjsu.edu/registrar/services/transcripts/</url>
+      </department>
+      <department>
+        <name>Fin Aid Assoc Students Bus Ofc</name>
+        <phone />
+        <zip>0129</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.sjsu.edu/faso/</url>
+      </department>
+      <department>
+        <name>Financial Aid &amp; Scholarships</name>
+        <phone />
+        <zip>0036</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Grad Studies &amp; Research-Fndtn</name>
+        <phone>4089242480</phone>
+        <zip>0139</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Learning Assist Resource Ctr</name>
+        <phone>4089242587</phone>
+        <zip>0198</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.sjsu.edu/larc/</url>
+      </department>
+      <department>
+        <name>Pre-College Programs</name>
+        <phone>4089242567</phone>
+        <zip>0159</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://pcpsjsu.edu</url>
+      </department>
+      <department>
+        <name>Registrar Services</name>
+        <phone />
+        <zip>0009</zip>
+        <email>erecords@sjsu.edu</email>
+        <floor />
+        <url>http://www.sjsu.edu/registrar</url>
+      </department>
+      <department>
+        <name>Research &amp; Creative Activities</name>
+        <phone>4089242427</phone>
+        <zip>0025</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Student Advising Center</name>
+        <phone>4089242129</phone>
+        <zip>0217</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Student Outreach &amp; Recruitment</name>
+        <phone>4089242564</phone>
+        <zip>0014</zip>
+        <email>outreach@sjsu.edu</email>
+        <floor>01</floor>
+        <url>http://www.sjsu.edu/visit</url>
+      </department>
+      <department>
+        <name>Summer Bridge Program</name>
+        <phone>4089242592</phone>
+        <zip>0192</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Tower Card</name>
+        <phone>4089241601</phone>
+        <zip>0138</zip>
+        <email>bursar@sjsu.edu</email>
+        <floor>01</floor>
+        <url>http://www.sjsu.edu/bursar/</url>
+      </department>
+      <department>
+        <name>Undergrad &amp; Grad Admiss Evals</name>
+        <phone />
+        <zip>0016</zip>
+        <email>admissions@sjsu.edu</email>
+        <floor>1st floor</floor>
+        <url />
+      </department>
+      <department>
+        <name>VP Student Services-Foundation</name>
+        <phone>4089242429</phone>
+        <zip>0139</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr>STMS</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>SU</abbr>
+    <departments>
+      <department>
+        <name>AS Computer Service Center</name>
+        <phone>4089246976</phone>
+        <zip>0129</zip>
+        <email />
+        <floor>03</floor>
+        <url>http://as.sjsu.edu/ascsc/index.jsp</url>
+      </department>
+      <department>
+        <name>AS Transportation Solutions</name>
+        <phone>4089247433</phone>
+        <zip>0129</zip>
+        <email />
+        <floor>02</floor>
+        <url>http://as.sjsu.edu/asts/index.jsp</url>
+      </department>
+      <department>
+        <name>Assoc Students Gen Svcs Ctr</name>
+        <phone>4089246200</phone>
+        <zip>0129</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://as.sjsu.edu/asgsc/index.jsp</url>
+      </department>
+      <department>
+        <name>Fin Aid Spartan Shops, Inc.</name>
+        <phone>4089241802</phone>
+        <zip>0153</zip>
+        <email>bjwood@spartanshops.sjsu.edu</email>
+        <floor />
+        <url>http://www.spartanshops.com</url>
+      </department>
+      <department>
+        <name>MOSAIC Cross Cultural Ctr</name>
+        <phone>4089246255</phone>
+        <zip>0238</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Recreation &amp; Leisure Studies</name>
+        <phone>4089243000</phone>
+        <zip>0060</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.sjsu.edu/hrtm/</url>
+      </department>
+      <department>
+        <name>Spartan Bookstore</name>
+        <phone>4089241800</phone>
+        <zip>0148</zip>
+        <email />
+        <floor />
+        <url>http://ww.spartanshops.com</url>
+      </department>
+      <department>
+        <name>Spartan SU Cafeteria</name>
+        <phone>4089241750</phone>
+        <zip>0145</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.spartanshops.com</url>
+      </department>
+      <department>
+        <name>Student Union</name>
+        <phone>4089246310</phone>
+        <zip>0201</zip>
+        <email />
+        <floor>Upper Level</floor>
+        <url>http://www.union.sjsu.edu/</url>
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr>SUA</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>TEMP</abbr>
+    <departments>
+      <department>
+        <name>WS-Gardner Family Care Corp</name>
+        <phone />
+        <zip>0999</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr>TH</abbr>
+    <departments>
+      <department>
+        <name>Office of the President</name>
+        <phone>4089241177</phone>
+        <zip>0002</zip>
+        <email>sjsupres@sjsu.edu</email>
+        <floor>02</floor>
+        <url>http://www.sjsu.edu/president/</url>
+      </department>
+      <department>
+        <name>Sprtn Shops Real Estate Dvlpmn</name>
+        <phone />
+        <zip>0145</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.spartanshops.sjsu.edu/realestate/</url>
+      </department>
+      <department>
+        <name>University Technology Services</name>
+        <phone />
+        <zip>0234</zip>
+        <email />
+        <floor>01</floor>
+        <url />
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr>TNF</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>TOPO</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>UPD</abbr>
+    <departments>
+      <department>
+        <name>Compliance</name>
+        <phone>4089242159</phone>
+        <zip>0003</zip>
+        <email />
+        <floor>03</floor>
+        <url>http://www.sjsu.edu/hr/about/directory/byunit/urc_directory/index.htm</url>
+      </department>
+      <department>
+        <name>Employee Records</name>
+        <phone>4089242250</phone>
+        <zip>0008</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Employee Support Services</name>
+        <phone>4089242250</phone>
+        <zip>0045</zip>
+        <email />
+        <floor>03</floor>
+        <url>http://www.sjsu.edu/hr/</url>
+      </department>
+      <department>
+        <name>Human Resources</name>
+        <phone>4089242250</phone>
+        <zip>0046</zip>
+        <email />
+        <floor>3rd</floor>
+        <url>http://www.sjsu.edu/hr</url>
+      </department>
+      <department>
+        <name>Parking Services</name>
+        <phone>4089246556</phone>
+        <zip>0166</zip>
+        <email>police@sjsu.edu</email>
+        <floor>01</floor>
+        <url>http://sjsu.edu/parking</url>
+      </department>
+      <department>
+        <name>Safety &amp; Risk Management</name>
+        <phone />
+        <zip>0222</zip>
+        <email />
+        <floor>03</floor>
+        <url>http://www.sjsu.edu/hr/all_employees/</url>
+      </department>
+      <department>
+        <name>University-Wide Risk Mgm't</name>
+        <phone>4089242250</phone>
+        <zip>0222</zip>
+        <email />
+        <floor>3rd</floor>
+        <url>http://www.sjsu.edu/hr</url>
+      </department>
+      <department>
+        <name>University Police</name>
+        <phone>4089242222</phone>
+        <zip>0012</zip>
+        <email>police@email.sjsu.edu</email>
+        <floor>01</floor>
+        <url>http://www.sjsupd.com/</url>
+      </department>
+      <department>
+        <name>UPD Administrative Services</name>
+        <phone>4089242222</phone>
+        <zip>0012</zip>
+        <email>police@sjsu.edu</email>
+        <floor>01</floor>
+        <url>http://www.sjsupd.com/</url>
+      </department>
+      <department>
+        <name>UPD Field Operations</name>
+        <phone>4089242222</phone>
+        <zip>0012</zip>
+        <email>police@sjsu.edu</email>
+        <floor>01</floor>
+        <url>http://sjsupd.com</url>
+      </department>
+      <department>
+        <name>UPD Special Operations</name>
+        <phone>4089242222</phone>
+        <zip>0012</zip>
+        <email>police@sjsu.edu</email>
+        <floor>01</floor>
+        <url>http://sjsupd.com</url>
+      </department>
+      <department>
+        <name>Workforce Planning Svcs HR</name>
+        <phone>4089242280</phone>
+        <zip>0046</zip>
+        <email />
+        <floor>03</floor>
+        <url>http://www.sjsu.edu/hr/workforce/index.html</url>
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr>UTIL</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>WLC</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>WLN</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>WLS</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>WPG</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>WSH</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>WSQ</abbr>
+    <departments>
+      <department>
+        <name>African American Studies</name>
+        <phone>4089245871</phone>
+        <zip>0108</zip>
+        <email />
+        <floor>02</floor>
+        <url>http://www.sjsu.edu/depts/afamstudy/</url>
+      </department>
+      <department>
+        <name>Africana Center</name>
+        <phone>4089245871</phone>
+        <zip>0108</zip>
+        <email />
+        <floor>02</floor>
+        <url>http://www.sjsu.edu/depts/afamstudy/</url>
+      </department>
+      <department>
+        <name>College of Humanities &amp; Arts</name>
+        <phone>4089244300</phone>
+        <zip>0088</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.sjsu.edu/humanities/</url>
+      </department>
+      <department>
+        <name>College of Social Sciences</name>
+        <phone>4089245300</phone>
+        <zip>0107</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.sjsu.edu/depts/SocialSciences/socsci.htm</url>
+      </department>
+      <department>
+        <name>Environmental Studies</name>
+        <phone>4089245450</phone>
+        <zip>0115</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.sjsu.edu/depts/EnvStudies/</url>
+      </department>
+      <department>
+        <name>Geography</name>
+        <phone>4089245475</phone>
+        <zip>0116</zip>
+        <email>richard.taketa@sjsu.edu</email>
+        <floor>01</floor>
+        <url>http://www.sjsu.edu/depts/geography/</url>
+      </department>
+      <department>
+        <name>Geography-Foundation</name>
+        <phone>4089245475</phone>
+        <zip>0139</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>School of Social Work</name>
+        <phone>4089245800</phone>
+        <zip>0124</zip>
+        <email />
+        <floor>02</floor>
+        <url>http://www.sjsu.edu/socialwork</url>
+      </department>
+      <department>
+        <name>Social Work</name>
+        <phone>4089245800</phone>
+        <zip>0124</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Social Work - Foundation</name>
+        <phone>4089245800</phone>
+        <zip>0139</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Urban &amp; Regional Planning</name>
+        <phone>4089245882</phone>
+        <zip>0185</zip>
+        <email>urbplan@email.sjsu.edu</email>
+        <floor>02</floor>
+        <url>http://www.sjsu.edu/urbanplanning/</url>
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr>YUA</abbr>
+    <departments />
+  </building>
+  <building>
+    <abbr>YUH</abbr>
+    <departments>
+      <department>
+        <name>Mexican American Studies</name>
+        <phone>4089245760</phone>
+        <zip>0118</zip>
+        <email>elmas@email.sjsu.edu</email>
+        <floor>01</floor>
+        <url />
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr>KING</abbr>
+    <departments>
+      <department>
+        <name>Adaptive Technology</name>
+        <phone />
+        <zip>0168</zip>
+        <email />
+        <floor>02</floor>
+        <url>http://www.drc.sjsu.edu/atc/</url>
+      </department>
+      <department>
+        <name>Asian Center</name>
+        <phone />
+        <zip>0110</zip>
+        <email />
+        <floor>04</floor>
+        <url>http://sjlibrary.org/gateways/academic/</url>
+      </department>
+      <department>
+        <name>Beethoven Center</name>
+        <phone />
+        <zip>0171</zip>
+        <email />
+        <floor>05</floor>
+        <url>http://www.sjsu.edu/depts/beethoven/</url>
+      </department>
+      <department>
+        <name>Books Aloud</name>
+        <phone />
+        <zip>0999</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>MLK Library Security</name>
+        <phone>408808082635</phone>
+        <zip>0012</zip>
+        <email>police@sjsu.edu</email>
+        <floor>Basement</floor>
+        <url>http://sjsupd.com</url>
+      </department>
+      <department>
+        <name>Steinbeck Center</name>
+        <phone />
+        <zip>0202</zip>
+        <email>steinbeck@sjsu.edu</email>
+        <floor>05</floor>
+        <url>http://steinbeck.sjsu.edu/home/index.jsp</url>
+      </department>
+      <department>
+        <name>University Library</name>
+        <phone />
+        <zip>0028</zip>
+        <email />
+        <floor>04</floor>
+        <url>http://www.sjlibrary.org/</url>
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr />
+    <departments>
+      <department>
+        <name>All University Academics</name>
+        <phone />
+        <zip>0020</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Alliance Community Center</name>
+        <phone />
+        <zip>0999</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>American Express Central Mgmt</name>
+        <phone />
+        <zip>0041</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Campfire Boys &amp; Girls</name>
+        <phone />
+        <zip>0999</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Central Amer Acad Prgms (CAAP)</name>
+        <phone />
+        <zip>0020</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Central Finance Operations</name>
+        <phone />
+        <zip />
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>City of Santa Clara</name>
+        <phone />
+        <zip>0999</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>City Year</name>
+        <phone />
+        <zip>0999</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Co-Generation Plant</name>
+        <phone />
+        <zip>0010</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>College Base Development</name>
+        <phone />
+        <zip />
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>College Dev/Distance Learning</name>
+        <phone />
+        <zip>0029</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Commerce Net</name>
+        <phone />
+        <zip />
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Comp Info &amp; Sys Eng</name>
+        <phone />
+        <zip>0180</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Contracted Services-Foundation</name>
+        <phone />
+        <zip>0139</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Corp &amp; International Svcs IES</name>
+        <phone />
+        <zip>0135</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>County of Santa Clara</name>
+        <phone />
+        <zip>0999</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>CSU Visual Image Institute</name>
+        <phone />
+        <zip>0089</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>CTE Publication</name>
+        <phone />
+        <zip />
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Deferred Maintenance</name>
+        <phone />
+        <zip>0010</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Design &amp; Construction</name>
+        <phone />
+        <zip>0010</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Division-Wide Admin &amp; Fin</name>
+        <phone />
+        <zip>0006</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Division-Wide Provost</name>
+        <phone />
+        <zip>0020</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Eastfield Ming Quong</name>
+        <phone />
+        <zip>0999</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>El Salvador IES (MATL)</name>
+        <phone />
+        <zip>0076</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Engr-MBA/MSE Program IES</name>
+        <phone />
+        <zip>0080</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Engr-MSQA Project IES</name>
+        <phone />
+        <zip>0080</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Engr Cmptr/United Defense</name>
+        <phone />
+        <zip>0080</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Engr Off-Campus Programs</name>
+        <phone />
+        <zip>0080</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Enrl Svcs Marketing</name>
+        <phone />
+        <zip>0011</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Environmental Services FD&amp;O</name>
+        <phone />
+        <zip>0010</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Evergreen Unified Sch Dist</name>
+        <phone />
+        <zip>0999</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>FD&amp;O Bldg Auto System CEMS</name>
+        <phone />
+        <zip>0010</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>FD&amp;O Campus Engineering</name>
+        <phone />
+        <zip>0010</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>FD&amp;O Utilities Ops &amp; Maint</name>
+        <phone />
+        <zip>0010</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>FDTN-Chief Operations Officer</name>
+        <phone />
+        <zip />
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>FDTN-Human Resources</name>
+        <phone />
+        <zip />
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>FDTN-Information Tech ITSS</name>
+        <phone />
+        <zip />
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>FDTN-Sponsored Prgms Admin</name>
+        <phone />
+        <zip />
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Field Studies in Nat'l Hist</name>
+        <phone />
+        <zip>0100</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>FYRST</name>
+        <phone />
+        <zip>0030</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Gardner Children</name>
+        <phone />
+        <zip>0999</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Hazardous Waste Management</name>
+        <phone />
+        <zip>0222</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>IES Global Innovation</name>
+        <phone />
+        <zip>0135</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Incubators-Foundation</name>
+        <phone />
+        <zip>0139</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>INVST Program</name>
+        <phone />
+        <zip>0999</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Job Location Development</name>
+        <phone />
+        <zip>0032</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Lifetime</name>
+        <phone />
+        <zip>0999</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Los Gatos High School</name>
+        <phone />
+        <zip>0999</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>MAHS Teacher Leadership</name>
+        <phone />
+        <zip>0071</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Men's Gymnastics</name>
+        <phone />
+        <zip>0062</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>MLK Library Facility</name>
+        <phone />
+        <zip>0010</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>MLS Northern California</name>
+        <phone />
+        <zip>0029</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>MPH Prgm - Extended Educ</name>
+        <phone />
+        <zip />
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>MTC-NASA Research Park</name>
+        <phone />
+        <zip>0025</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Multicultural Diversity</name>
+        <phone />
+        <zip>0238</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>NCAA College Cup</name>
+        <phone />
+        <zip>0062</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Orgn Development &amp; Training</name>
+        <phone />
+        <zip>0046</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>PDC Information Technology</name>
+        <phone />
+        <zip>0135</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>PDC Logistical Services</name>
+        <phone />
+        <zip>0135</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>PDC Maint &amp; Repair/Lundy</name>
+        <phone />
+        <zip />
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>PDC Marketing</name>
+        <phone />
+        <zip>0135</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>PDC Other Programs</name>
+        <phone />
+        <zip>0135</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Procurement Card Central Mgmt</name>
+        <phone />
+        <zip>0008</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Project Assistance</name>
+        <phone />
+        <zip>0030</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Regional Programming</name>
+        <phone />
+        <zip />
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Research Fdtn - Central Admin</name>
+        <phone />
+        <zip>0042</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Safety Equipment</name>
+        <phone />
+        <zip>0010</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>San Jose Day Nursery</name>
+        <phone />
+        <zip>0999</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>San Jose Museum of Art</name>
+        <phone />
+        <zip>0999</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>San Jose State University</name>
+        <phone>4089241000</phone>
+        <zip>MAIN</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>SCC Arts Council</name>
+        <phone />
+        <zip>0999</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Silicon Valley Classic</name>
+        <phone />
+        <zip>0062</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>SJSU Foundation WS</name>
+        <phone />
+        <zip>0139</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>SOS-Calif Reading Prog</name>
+        <phone />
+        <zip>0090</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>SOS-CAPI Math</name>
+        <phone />
+        <zip>0103</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>SOS-Distributed Education Prog</name>
+        <phone />
+        <zip />
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>SOS-Fund Management</name>
+        <phone />
+        <zip />
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>SOS-Online Disability Credent</name>
+        <phone />
+        <zip />
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>SOS-Summer Credentialing</name>
+        <phone />
+        <zip />
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>SOS Guam Project</name>
+        <phone />
+        <zip />
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Spartan Stadium</name>
+        <phone />
+        <zip>0145</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>St. Joseph</name>
+        <phone />
+        <zip>0999</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Summer Institute of Technology</name>
+        <phone />
+        <zip>0071</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Unallocated Base</name>
+        <phone />
+        <zip>0004</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Unfinished Journey</name>
+        <phone />
+        <zip />
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>United C Christian Ministry</name>
+        <phone />
+        <zip>0999</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>University-Wide Accounting</name>
+        <phone />
+        <zip>0042</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>University-Wide Budgeting</name>
+        <phone />
+        <zip>0004</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>University-Wide Instruction</name>
+        <phone />
+        <zip>0042</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>University-Wide Stud Fin Aid</name>
+        <phone />
+        <zip>0036</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>University Contingency</name>
+        <phone />
+        <zip>0008</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>University Programs &amp; Projects</name>
+        <phone />
+        <zip>0008</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>University Wide</name>
+        <phone />
+        <zip>0002</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>WRC/LGBTRC</name>
+        <phone />
+        <zip>0161</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>WS-Assets for All</name>
+        <phone />
+        <zip>0999</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>WS-AVID America Counts</name>
+        <phone />
+        <zip>0999</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>WS-Environment Volunteer</name>
+        <phone />
+        <zip>0999</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>WS-Hillel of Silicon Valley</name>
+        <phone />
+        <zip>0964</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>WS-Pathways Society</name>
+        <phone />
+        <zip>0999</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>YMCA Central Center</name>
+        <phone />
+        <zip>0999</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Youth Science Institute</name>
+        <phone />
+        <zip>0999</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr>210N</abbr>
+    <departments>
+      <department>
+        <name>Assoc Students Child Devl Ctr</name>
+        <phone>4089246988</phone>
+        <zip>0248</zip>
+        <email />
+        <floor />
+        <url>http://as.sjsu.edu/ascdc/index.jsp</url>
+      </department>
+      <department>
+        <name>Catholic Campus Ministry</name>
+        <phone />
+        <zip>0999</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Center for Extended Studies</name>
+        <phone>4089242670</phone>
+        <zip>0135</zip>
+        <email />
+        <floor>03</floor>
+        <url>http://ies.sjsu.edu/</url>
+      </department>
+      <department>
+        <name>Central Office-Foundation</name>
+        <phone>4089241410</phone>
+        <zip>0139</zip>
+        <email>friger@foundation.sjsu.edu</email>
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Corporate Training Services IE</name>
+        <phone />
+        <zip>0135</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Custodial Services</name>
+        <phone>4089241935</phone>
+        <zip>0010</zip>
+        <email />
+        <floor />
+        <url>http://www.sjsu.edu/fdo</url>
+      </department>
+      <department>
+        <name>Dir of Compliance for Int Athl</name>
+        <phone>4089241200</phone>
+        <zip>0002</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.sjsuspartans.com/</url>
+      </department>
+      <department>
+        <name>E-Campus  IES</name>
+        <phone>4089242670</phone>
+        <zip>0135</zip>
+        <email>ecampus@online.sjsu.edu</email>
+        <floor>3rd Fl</floor>
+        <url>http://online.sjsu.edu/</url>
+      </department>
+      <department>
+        <name>Foundation Central Office</name>
+        <phone>4089241400</phone>
+        <zip>0139</zip>
+        <email />
+        <floor>4th</floor>
+        <url>http://www.sjsufoundation.org/</url>
+      </department>
+      <department>
+        <name>Global Studies</name>
+        <phone>4089247196</phone>
+        <zip>0135</zip>
+        <email>michael.conniff@sjsu.edu</email>
+        <floor>3rd</floor>
+        <url>http://www.gs.sjsu.edu</url>
+      </department>
+      <department>
+        <name>IES - International Recruitmnt</name>
+        <phone>4089242670</phone>
+        <zip>0135</zip>
+        <email />
+        <floor />
+        <url>http://www.ies.sjsu.edu</url>
+      </department>
+      <department>
+        <name>IES Central Administration</name>
+        <phone>4089242670</phone>
+        <zip>0135</zip>
+        <email>info@ies.sjsu.edu</email>
+        <floor>3rd Fl</floor>
+        <url>http://www.ies.sjsu.edu</url>
+      </department>
+      <department>
+        <name>IES Financial Operations</name>
+        <phone>4089242627</phone>
+        <zip>0135</zip>
+        <email />
+        <floor>3rd Fl</floor>
+        <url>http://www.ies.sju.edu</url>
+      </department>
+      <department>
+        <name>IES Fund Management</name>
+        <phone />
+        <zip>0135</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>IES Information Technology</name>
+        <phone>4089242670</phone>
+        <zip>0135</zip>
+        <email />
+        <floor>3rd Fl</floor>
+        <url>http://www.ies.sju.edu</url>
+      </department>
+      <department>
+        <name>IES Logistical Services</name>
+        <phone />
+        <zip>0135</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Int'l and Extended Studies</name>
+        <phone>4089242670</phone>
+        <zip>0135</zip>
+        <email>info@ies.sjsu.edu</email>
+        <floor>03</floor>
+        <url>http://www.ies.sjsu.edu</url>
+      </department>
+      <department>
+        <name>Int'l Outreach Leadership IES</name>
+        <phone>4089242627</phone>
+        <zip>0135</zip>
+        <email>psterlacci@profdev.sjsu.edu</email>
+        <floor>3rd Fl</floor>
+        <url>http://ies.sjsu.edu/ilp/</url>
+      </department>
+      <department>
+        <name>International Projects IES</name>
+        <phone>4089242719</phone>
+        <zip>0135</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Library &amp; Info Science-ES</name>
+        <phone />
+        <zip>0029</zip>
+        <email>SLSIFul@slis.sjsu.edu</email>
+        <floor>Basement</floor>
+        <url>http://slisweb.sjsu.edu</url>
+      </department>
+      <department>
+        <name>Marketing &amp; Communications IES</name>
+        <phone>4089242619</phone>
+        <zip>0135</zip>
+        <email />
+        <floor>3rd Fl</floor>
+        <url>http://www.ies.sju.edu</url>
+      </department>
+      <department>
+        <name>Military Science</name>
+        <phone />
+        <zip>0049</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Mineta Transprt Institute CoB</name>
+        <phone>4089247560</phone>
+        <zip>0065</zip>
+        <email />
+        <floor>04</floor>
+        <url>http://www.transweb.sjsu.edu/mtiportal/index.html</url>
+      </department>
+      <department>
+        <name>Osher Lifelong Lrng Instit IES</name>
+        <phone>4089242714</phone>
+        <zip>0135</zip>
+        <email>info@osher.sjsu.edu</email>
+        <floor />
+        <url>http://iesweb.sjsu.edu/profdev/osher/index.html</url>
+      </department>
+      <department>
+        <name>Profess Development Ctr IES</name>
+        <phone>4089242735</phone>
+        <zip>0135</zip>
+        <email>info@profdev.sjsu.edu</email>
+        <floor />
+        <url>http://iesweb.sjsu.edu/profdev/</url>
+      </department>
+      <department>
+        <name>SJSU Foundation</name>
+        <phone>4089241400</phone>
+        <zip>0139</zip>
+        <email />
+        <floor>04</floor>
+        <url>http://www.sjsufoundation.org/</url>
+      </department>
+      <department>
+        <name>SOS-Special Sess/Open Univ</name>
+        <phone>4089242670</phone>
+        <zip>0135</zip>
+        <email>info@ies.sjsu.edu</email>
+        <floor>3rd Fl</floor>
+        <url>http://iesweb.sjsu.edu/specialSession/</url>
+      </department>
+      <department>
+        <name>Spartan Shops Finance</name>
+        <phone />
+        <zip>0224</zip>
+        <email />
+        <floor />
+        <url>http://www.spartanshops.com</url>
+      </department>
+      <department>
+        <name>Tchr Educ-APEX Prog IES</name>
+        <phone>4089242636</phone>
+        <zip>0074</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Teacher Education</name>
+        <phone>4089242636</phone>
+        <zip>0074</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>UC Berkeley</name>
+        <phone />
+        <zip>0999</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Univ of Youth Enrichment IES</name>
+        <phone />
+        <zip>0135</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Univ of Youth Pre-Coll Disc IE</name>
+        <phone />
+        <zip>0135</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>WS-United Farm Workers of Amer</name>
+        <phone />
+        <zip>0999</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr>CVA</abbr>
+    <departments>
+      <department>
+        <name>Campus Village</name>
+        <phone />
+        <zip>0133</zip>
+        <email />
+        <floor>02</floor>
+        <url>http://www.housing.sjsu.edu/</url>
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr>MOD-F</abbr>
+    <departments>
+      <department>
+        <name>Career Center</name>
+        <phone>4089246031</phone>
+        <zip>0032</zip>
+        <email />
+        <floor />
+        <url>http://www.careercenter.sjsu.edu/</url>
+      </department>
+      <department>
+        <name>Career Center-Foundation</name>
+        <phone>4089246031</phone>
+        <zip>0139</zip>
+        <email />
+        <floor />
+        <url>http://www.careercenter.sjsu.edu/</url>
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr>CVB</abbr>
+    <departments>
+      <department>
+        <name>Housing-Organization</name>
+        <phone />
+        <zip>0133</zip>
+        <email />
+        <floor>02</floor>
+        <url>http://www.housing.sjsu.edu/</url>
+      </department>
+      <department>
+        <name>Housing-Technology</name>
+        <phone />
+        <zip>0133</zip>
+        <email />
+        <floor>02</floor>
+        <url>http://www.housing.sjsu.edu/</url>
+      </department>
+      <department>
+        <name>Housing Building Maintenance</name>
+        <phone />
+        <zip>0133</zip>
+        <email />
+        <floor>02</floor>
+        <url>http://www.housing.sjsu.edu/res_maintenance.html</url>
+      </department>
+      <department>
+        <name>Housing Business Svcs</name>
+        <phone />
+        <zip>0133</zip>
+        <email />
+        <floor>02</floor>
+        <url>http://www.housing.sjsu.edu/index.htm</url>
+      </department>
+      <department>
+        <name>Housing Coordination</name>
+        <phone />
+        <zip>0133</zip>
+        <email />
+        <floor>02</floor>
+        <url>http://www.housing.sjsu.edu/index.htm</url>
+      </department>
+      <department>
+        <name>Spartan Shops I.T.</name>
+        <phone />
+        <zip>0399</zip>
+        <email />
+        <floor>02</floor>
+        <url>http://www.spartanshops.com</url>
+      </department>
+      <department>
+        <name>University Housing Services</name>
+        <phone />
+        <zip>0133</zip>
+        <email />
+        <floor>02</floor>
+        <url>http://www.housing.sjsu.edu/</url>
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr>CY</abbr>
+    <departments>
+      <department>
+        <name>HVAC Operations</name>
+        <phone>4089241990</phone>
+        <zip>0010</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr>ICH</abbr>
+    <departments>
+      <department>
+        <name>Int'l Prgms &amp; Stdnt Svcs-Fndtn</name>
+        <phone>4089246570</phone>
+        <zip>0139</zip>
+        <email />
+        <floor>01</floor>
+        <url>http://www.sjsu.edu/ihouse/</url>
+      </department>
+    </departments>
+  </building>
+  <building>
+    <abbr>MLML</abbr>
+    <departments>
+      <department>
+        <name>Moss Landing-Foundation</name>
+        <phone />
+        <zip>0139</zip>
+        <email />
+        <floor />
+        <url />
+      </department>
+      <department>
+        <name>Moss Landing Marine Lab</name>
+        <phone />
+        <zip>0144</zip>
+        <email />
+        <floor>Moss Landing, CA 95039</floor>
+        <url>http://www.mlml.calstate.edu/</url>
+      </department>
+    </departments>
+  </building>
+</buildings>
